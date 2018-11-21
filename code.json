@@ -262,6 +262,55 @@
 			},
 			"laborHours": 0,
 			"vcs": ""
+		},
+		{
+			"contact": {
+				"URL": "https://github.com/CDCgov",
+				"email": "cdcinfo@cdc.gov"
+			},
+			"date": {
+				"created": "2018-11-15T19:41:55+00:00",
+				"lastModified": "2018-11-15T19:52:54+00:00"
+			},
+			"description": "A platform for viewing and comparing evolutionary and contact-tracing networks",
+			"downloadURL": "https://api.github.com/repos/CDCgov/MicrobeTrace/downloads",
+			"homepageURL": "https://github.com/CDCgov/MicrobeTrace",
+			"laborHours": 0,
+			"languages": [
+				"HTML",
+				"JavaScript",
+				"CSS",
+				"Shell"
+			],
+			"name": "MicrobeTrace",
+			"organization": "Centers for Disease Control and Prevention",
+			"permissions": {
+				"licenses": [
+					"https://api.github.com/licenses/apache-2.0",
+					"Apache-2.0"
+				],
+				"usageType": "openSource"
+			},
+			"repositoryURL": "git://github.com/CDCgov/MicrobeTrace.git",
+			"status": "Development",
+			"tags": [
+				"github",
+				"bioinformatics",
+				"epidemiology",
+				"network-visualization",
+				"hiv",
+				"cdc",
+				"pathogens",
+				"phylogenetics",
+				"phylogenetic-trees",
+				"phylogeny",
+				"phylogenomics",
+				"genomics",
+				"genomics-visualization",
+				"genomic-data-analysis",
+				"sequence-alignment"
+			],
+			"vcs": "git"
 		}
 	]
 }

@@ -1,0 +1,2 @@
+## Declare files that will always have LF (aka \n aka 10 aka 0x0a) line endings on checkout. Makes diff easier across OSes.
+*.json text eol=lf
