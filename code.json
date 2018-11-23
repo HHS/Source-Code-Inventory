@@ -269,8 +269,8 @@
 				"email": "cdcinfo@cdc.gov"
 			},
 			"date": {
-				"created": "2018-11-15T19:41:55+00:00",
-				"lastModified": "2018-11-15T19:52:54+00:00"
+				"created": "2018-11-15",
+				"lastModified": "2018-11-15"
 			},
 			"description": "A platform for viewing and comparing evolutionary and contact-tracing networks",
 			"downloadURL": "https://api.github.com/repos/CDCgov/MicrobeTrace/downloads",
@@ -286,8 +286,10 @@
 			"organization": "Centers for Disease Control and Prevention",
 			"permissions": {
 				"licenses": [
-					"https://api.github.com/licenses/apache-2.0",
-					"Apache-2.0"
+					{
+						"URL": "https://api.github.com/licenses/apache-2.0",
+						"name": "Apache-2.0"
+					}
 				],
 				"usageType": "openSource"
 			},
