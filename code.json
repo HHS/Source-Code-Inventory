@@ -4149,7 +4149,7 @@
         },
         "date": {
             "created": "2017-11-20",
-            "lastModified": "2019-10-10"
+            "lastModified": "2020-02-14"
         },
         "description": "No description available...",
         "downloadURL": "https://api.github.com/repos/Epi-Info/Epi-Info-Web-Survey/downloads",
@@ -4183,7 +4183,7 @@
         },
         "date": {
             "created": "2017-09-14",
-            "lastModified": "2019-11-18"
+            "lastModified": "2020-01-29"
         },
         "description": "No description available...",
         "downloadURL": "https://api.github.com/repos/Epi-Info/Epi-Info-Community-Edition/downloads",
@@ -4191,7 +4191,7 @@
         "laborHours": 0,
         "languages": [
             "C#",
-            "Visual Basic",
+            "Visual Basic .NET",
             "HTML",
             "Rich Text Format",
             "Roff",
@@ -4224,7 +4224,7 @@
         },
         "date": {
             "created": "2017-08-21",
-            "lastModified": "2019-10-09"
+            "lastModified": "2020-02-21"
         },
         "description": "No description available...",
         "downloadURL": "https://api.github.com/repos/Epi-Info/Epi-Info-Cloud-Data-Capture/downloads",
@@ -4548,7 +4548,7 @@
         },
         "date": {
             "created": "2019-03-19",
-            "lastModified": "2019-11-19"
+            "lastModified": "2020-02-19"
         },
         "description": "GeneFlow: A Workflow Engine for Bioinformatics and Public Health Analytics",
         "downloadURL": "https://api.github.com/repos/CDCgov/geneflow/downloads",
@@ -4696,7 +4696,7 @@
         },
         "date": {
             "created": "2019-01-14",
-            "lastModified": "2019-09-09"
+            "lastModified": "2019-12-05"
         },
         "description": "Uncompromisingly Flexible Phylogenetic Trees in Javascript",
         "downloadURL": "https://api.github.com/repos/CDCgov/TidyTree/downloads",
@@ -4911,7 +4911,7 @@
         },
         "date": {
             "created": "2018-09-21",
-            "lastModified": "2019-11-11"
+            "lastModified": "2020-02-13"
         },
         "description": "The Visualization Multitool for Molecular Epidemiology and Bioinformatics",
         "downloadURL": "https://api.github.com/repos/CDCgov/MicrobeTrace/downloads",
@@ -5433,7 +5433,7 @@
         },
         "date": {
             "created": "2018-04-03",
-            "lastModified": "2019-02-07"
+            "lastModified": "2020-02-04"
         },
         "description": "This is the repository with the API gateway to connect the other microservices together.",
         "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-gateway/downloads",
@@ -5471,7 +5471,7 @@
         },
         "date": {
             "created": "2018-04-03",
-            "lastModified": "2018-12-27"
+            "lastModified": "2019-12-18"
         },
         "description": "This the repository with the Java Library for the Business Rules Engine.",
         "downloadURL": "https://api.github.com/repos/CDCgov/fdns-rules-engine/downloads",
@@ -5574,7 +5574,7 @@
         },
         "date": {
             "created": "2018-04-03",
-            "lastModified": "2019-11-07"
+            "lastModified": "2019-12-04"
         },
         "description": "This is the repository with the front-end library built in React.",
         "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ui-react/downloads",
@@ -5794,7 +5794,7 @@
         },
         "date": {
             "created": "2017-06-21",
-            "lastModified": "2019-07-17"
+            "lastModified": "2019-12-12"
         },
         "description": "No description available...",
         "downloadURL": "https://api.github.com/repos/CDCgov/openshift-fluentd-forwarder/downloads",
@@ -5901,7 +5901,7 @@
         },
         "date": {
             "created": "2017-04-10",
-            "lastModified": "2019-10-28"
+            "lastModified": "2019-12-13"
         },
         "description": "Natural Language processing for Pathology reports on cancer histology, laterality, side, and behavior.",
         "downloadURL": "https://api.github.com/repos/CDCgov/NLPWorkbench/downloads",
@@ -5965,9 +5965,9 @@
         },
         "date": {
             "created": "2016-09-19",
-            "lastModified": "2019-08-26"
+            "lastModified": "2020-01-14"
         },
-        "description": "Repository for the development of the initial SDP vocabulary service. ",
+        "description": "Repository for the SDP Vocabulary Service.",
         "downloadURL": "https://api.github.com/repos/CDCgov/SDP-Vocabulary-Service/downloads",
         "homepageURL": "https://github.com/CDCgov/SDP-Vocabulary-Service",
         "laborHours": 0,
