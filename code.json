@@ -3981,3143 +3981,3143 @@
       }
     },
     {
-        "contact": {
-            "URL": "https://github.com/cdcai",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2019-12-17",
-            "lastModified": "2020-03-16"
-        },
-        "description": "Text classification algorithms for autism surveillance",
-        "downloadURL": "https://api.github.com/repos/cdcai/autism_surveillance/downloads",
-        "homepageURL": "https://github.com/cdcai/autism_surveillance",
-        "laborHours": 0,
-        "languages": [
-            "Python",
-            "R"
-        ],
-        "name": "autism_surveillance",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/cdcai/autism_surveillance.git",
-        "status": "Development",
-        "tags": [
-            "github",
-            "usg-artificial-intelligence",
-            "usg-natural-language-processing"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/cdcai",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2019-10-16",
-            "lastModified": "2020-03-16"
-        },
-        "description": "Random examples of Tensorflow in R",
-        "downloadURL": "https://api.github.com/repos/cdcai/R-tensorflow-projects/downloads",
-        "homepageURL": "https://github.com/cdcai/R-tensorflow-projects",
-        "laborHours": 0,
-        "languages": [
-            "R"
-        ],
-        "name": "R-tensorflow-projects",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/mit",
-                    "name": "MIT"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/cdcai/R-tensorflow-projects.git",
-        "status": "Development",
-        "tags": [
-            "github",
-            "usg-artificial-intelligence"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/cdcai",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2019-10-10",
-            "lastModified": "2020-03-16"
-        },
-        "description": "Train model to identify water cooling towers from high-resolution aerial imagery ",
-        "downloadURL": "https://api.github.com/repos/cdcai/coolit.train/downloads",
-        "homepageURL": "https://github.com/cdcai/coolit.train",
-        "laborHours": 0,
-        "languages": [
-            "R"
-        ],
-        "name": "coolit.train",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "name": "NOASSERTION"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/cdcai/coolit.train.git",
-        "status": "Development",
-        "tags": [
-            "github",
-            "usg-artificial-intelligence",
-            "object-detection",
-            "r",
-            "gis",
-            "legionella"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/cdcai",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2019-10-08",
-            "lastModified": "2020-07-06"
-        },
-        "description": "An ensemble of BERTs for classifying injury narratives",
-        "downloadURL": "https://api.github.com/repos/cdcai/injury-autocoding/downloads",
-        "homepageURL": "https://github.com/cdcai/injury-autocoding",
-        "laborHours": 0,
-        "languages": [
-            "Python",
-            "Jupyter Notebook",
-            "Batchfile"
-        ],
-        "name": "injury-autocoding",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/cdcai/injury-autocoding.git",
-        "status": "Development",
-        "tags": [
-            "github",
-            "usg-artificial-intelligence",
-            "usg-natural-language-processing",
-            "bert",
-            "text-classification",
-            "python"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/cdcai",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2019-10-08",
-            "lastModified": "2020-03-16"
-        },
-        "description": "Natural language generation for discrete data in EHRs",
-        "downloadURL": "https://api.github.com/repos/cdcai/NRC/downloads",
-        "homepageURL": "https://github.com/cdcai/NRC",
-        "laborHours": 0,
-        "languages": [
-            "Python"
-        ],
-        "name": "NRC",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/cdcai/NRC.git",
-        "status": "Development",
-        "tags": [
-            "github",
-            "usg-artificial-intelligence",
-            "usg-natural-language-processing",
-            "natural-language-generation",
-            "electronic-health-record"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/cdcai",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2019-10-08",
-            "lastModified": "2020-07-06"
-        },
-        "description": "Classifying multimodal health data with LSTMs",
-        "downloadURL": "https://api.github.com/repos/cdcai/enriched-LSTMs/downloads",
-        "homepageURL": "https://github.com/cdcai/enriched-LSTMs",
-        "laborHours": 0,
-        "languages": [
-            "Python"
-        ],
-        "name": "enriched-LSTMs",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/cdcai/enriched-LSTMs.git",
-        "status": "Development",
-        "tags": [
-            "github",
-            "usg-artificial-intelligence",
-            "multimodal-deep-learning",
-            "biomedical-informatics"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/informaticslab",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2016-08-24",
-            "lastModified": "2016-08-24"
-        },
-        "description": "No description available...",
-        "downloadURL": "https://api.github.com/repos/informaticslab/zika-pregnancy-testing/downloads",
-        "homepageURL": "https://github.com/informaticslab/zika-pregnancy-testing",
-        "laborHours": 0,
-        "languages": [
-            "JavaScript",
-            "HTML",
-            "CSS"
-        ],
-        "name": "zika-pregnancy-testing",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": null,
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/informaticslab/zika-pregnancy-testing.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/informaticslab",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2016-06-13",
-            "lastModified": "2016-12-15"
-        },
-        "description": "No description available...",
-        "downloadURL": "https://api.github.com/repos/informaticslab/zika-risk-assessment/downloads",
-        "homepageURL": "https://github.com/informaticslab/zika-risk-assessment",
-        "laborHours": 0,
-        "languages": [
-            "HTML",
-            "JavaScript",
-            "CSS"
-        ],
-        "name": "zika-risk-assessment",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": null,
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/informaticslab/zika-risk-assessment.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/informaticslab",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2012-11-29",
-            "lastModified": "2016-11-08"
-        },
-        "description": "PTT Advisor iOS app to provide clinical decision support for prolonged partial thromboplastin time (PTT).",
-        "downloadURL": "https://api.github.com/repos/informaticslab/ptt-advisor/downloads",
-        "homepageURL": "https://github.com/informaticslab/ptt-advisor",
-        "laborHours": 0,
-        "languages": [
-            "Objective-C",
-            "HTML"
-        ],
-        "name": "ptt-advisor",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": null,
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/informaticslab/ptt-advisor.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/Epi-Info",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-04-30",
-            "lastModified": "2018-11-19"
-        },
-        "description": "REST API to interface with Epi Info web platform and Epi Info 7",
-        "downloadURL": "https://api.github.com/repos/Epi-Info/Epi-Info-Survey-API/downloads",
-        "homepageURL": "https://github.com/Epi-Info/Epi-Info-Survey-API",
-        "laborHours": 0,
-        "languages": [
-            "C#",
-            "JavaScript",
-            "HTML",
-            "CSS",
-            "ASP"
-        ],
-        "name": "Epi-Info-Survey-API",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": null,
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/Epi-Info/Epi-Info-Survey-API.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/Epi-Info",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2017-11-30",
-            "lastModified": "2020-04-29"
-        },
-        "description": "Epi Info™ Companion for Android",
-        "downloadURL": "https://api.github.com/repos/Epi-Info/Epi-Info-Android/downloads",
-        "homepageURL": "https://github.com/Epi-Info/Epi-Info-Android",
-        "laborHours": 0,
-        "languages": [
-            "Java",
-            "HTML"
-        ],
-        "name": "Epi-Info-Android",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/Epi-Info/Epi-Info-Android.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/Epi-Info",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2017-11-20",
-            "lastModified": "2020-10-28"
-        },
-        "description": "No description available...",
-        "downloadURL": "https://api.github.com/repos/Epi-Info/Epi-Info-Web-Survey/downloads",
-        "homepageURL": "https://github.com/Epi-Info/Epi-Info-Web-Survey",
-        "laborHours": 0,
-        "languages": [
-            "C#",
-            "JavaScript",
-            "CSS",
-            "HTML",
-            "PowerShell",
-            "ASP.NET"
-        ],
-        "name": "Epi-Info-Web-Survey",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": null,
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/Epi-Info/Epi-Info-Web-Survey.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/Epi-Info",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2017-09-14",
-            "lastModified": "2020-10-28"
-        },
-        "description": "No description available...",
-        "downloadURL": "https://api.github.com/repos/Epi-Info/Epi-Info-Community-Edition/downloads",
-        "homepageURL": "https://github.com/Epi-Info/Epi-Info-Community-Edition",
-        "laborHours": 0,
-        "languages": [
-            "C#",
-            "Visual Basic .NET",
-            "HTML",
-            "TSQL",
-            "Rich Text Format",
-            "Roff",
-            "ASP.NET",
-            "Batchfile"
-        ],
-        "name": "Epi-Info-Community-Edition",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/Epi-Info/Epi-Info-Community-Edition.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/Epi-Info",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2017-08-21",
-            "lastModified": "2020-09-02"
-        },
-        "description": "No description available...",
-        "downloadURL": "https://api.github.com/repos/Epi-Info/Epi-Info-Cloud-Data-Capture/downloads",
-        "homepageURL": "https://github.com/Epi-Info/Epi-Info-Cloud-Data-Capture",
-        "laborHours": 0,
-        "languages": [
-            "C#",
-            "JavaScript",
-            "CSS",
-            "HTML",
-            "TSQL",
-            "ASP"
-        ],
-        "name": "Epi-Info-Cloud-Data-Capture",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/Epi-Info/Epi-Info-Cloud-Data-Capture.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/Epi-Info",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2016-04-11",
-            "lastModified": "2020-06-24"
-        },
-        "description": "Epi Info's scalable Cloud Contact Tracing platform build using .NET framework and Azure PaaS services ",
-        "downloadURL": "https://api.github.com/repos/Epi-Info/Epi-Info-Cloud-Contact-Tracing/downloads",
-        "homepageURL": "https://github.com/Epi-Info/Epi-Info-Cloud-Contact-Tracing",
-        "laborHours": 0,
-        "languages": [
-            "C#",
-            "JavaScript",
-            "CSS",
-            "PLpgSQL",
-            "PowerShell",
-            "ASP",
-            "HTML",
-            "Roff"
-        ],
-        "name": "Epi-Info-Cloud-Contact-Tracing",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/Epi-Info/Epi-Info-Cloud-Contact-Tracing.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/Epi-Info",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2016-01-22",
-            "lastModified": "2020-09-24"
-        },
-        "description": "Epi Info™ Companion for iOS",
-        "downloadURL": "https://api.github.com/repos/Epi-Info/Epi-Info-iOS/downloads",
-        "homepageURL": "https://github.com/Epi-Info/Epi-Info-iOS",
-        "laborHours": 0,
-        "languages": [
-            "Objective-C",
-            "C",
-            "Swift",
-            "HTML",
-            "Rich Text Format"
-        ],
-        "name": "Epi-Info-iOS",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/Epi-Info/Epi-Info-iOS.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2020-09-15",
-            "lastModified": "2020-10-28"
-        },
-        "description": "This repository analyzes viral genomes using Nextstrain to understand how SARS-CoV-2, the virus that is responsible for the COVID-19 pandemic, evolves and spreads. This is a copy of the original Nextstrain ncov repository, which will (by default) build augur all 50 states + DC + PR using the same parameters and subsampling strategy.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/spheres-augur-build/downloads",
-        "homepageURL": "https://github.com/CDCgov/spheres-augur-build",
-        "laborHours": 0,
-        "languages": [
-            "Python",
-            "Shell"
-        ],
-        "name": "spheres-augur-build",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/spheres-augur-build.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2020-09-14",
-            "lastModified": "2020-10-27"
-        },
-        "description": "Starter kit for use in creating new React projects",
-        "downloadURL": "https://api.github.com/repos/CDCgov/react-starter-kit/downloads",
-        "homepageURL": "https://github.com/CDCgov/react-starter-kit",
-        "laborHours": 0,
-        "languages": [
-            "JavaScript",
-            "SCSS",
-            "HTML"
-        ],
-        "name": "react-starter-kit",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/react-starter-kit.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2020-08-24",
-            "lastModified": "2020-08-26"
-        },
-        "description": "No description available...",
-        "downloadURL": "https://api.github.com/repos/CDCgov/MBAgeneratoR/downloads",
-        "homepageURL": "https://github.com/CDCgov/MBAgeneratoR",
-        "laborHours": 0,
-        "languages": [],
-        "name": "MBAgeneratoR",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/MBAgeneratoR.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2020-08-13",
-            "lastModified": "2020-08-14"
-        },
-        "description": "A Radical Alternative to Conventional Phylogenetic Tree Renderers",
-        "downloadURL": "https://api.github.com/repos/CDCgov/PhysicsTree/downloads",
-        "homepageURL": "https://github.com/CDCgov/PhysicsTree",
-        "laborHours": 0,
-        "languages": [
-            "HTML"
-        ],
-        "name": "PhysicsTree",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/PhysicsTree.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2020-08-12",
-            "lastModified": "2020-08-12"
-        },
-        "description": "A simple, all-client-side web app to transform Adjacency lists into Edge Lists",
-        "downloadURL": "https://api.github.com/repos/CDCgov/LongAdjacency/downloads",
-        "homepageURL": "https://github.com/CDCgov/LongAdjacency",
-        "laborHours": 0,
-        "languages": [
-            "HTML",
-            "JavaScript"
-        ],
-        "name": "LongAdjacency",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/LongAdjacency.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2020-07-15",
-            "lastModified": "2020-10-31"
-        },
-        "description": "Contains functions for pulling publicly-available global COVID-19 case and testing data for analysis and populating a Power BI dashboard.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/ITF_Power_BI/downloads",
-        "homepageURL": "https://github.com/CDCgov/ITF_Power_BI",
-        "laborHours": 0,
-        "languages": [
-            "R"
-        ],
-        "name": "ITF_Power_BI",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/ITF_Power_BI.git",
-        "status": "Development",
-        "tags": [
-            "github",
-            "covid-19",
-            "global-health",
-            "viz",
-            "powerbi"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2020-07-07",
-            "lastModified": "2020-10-14"
-        },
-        "description": "No description available...",
-        "downloadURL": "https://api.github.com/repos/CDCgov/NeST/downloads",
-        "homepageURL": "https://github.com/CDCgov/NeST",
-        "laborHours": 0,
-        "languages": [
-            "Jupyter Notebook",
-            "Python",
-            "HTML",
-            "R",
-            "Shell"
-        ],
-        "name": "NeST",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": null,
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/NeST.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2020-06-26",
-            "lastModified": "2020-10-29"
-        },
-        "description": "The Bacterial Meningitis Genome Analysis Platform, an analysis pipeline, ExpressJS API, and ReactJS webapp for the analysis and characterization of bacterial meningitis samples",
-        "downloadURL": "https://api.github.com/repos/CDCgov/BMGAP/downloads",
-        "homepageURL": "https://github.com/CDCgov/BMGAP",
-        "laborHours": 0,
-        "languages": [
-            "Python",
-            "Perl",
-            "JavaScript",
-            "Shell",
-            "HTML",
-            "SCSS",
-            "CSS"
-        ],
-        "name": "BMGAP",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/BMGAP.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2020-05-29",
-            "lastModified": "2020-05-29"
-        },
-        "description": "Kmer Pathogen Identification Platform",
-        "downloadURL": "https://api.github.com/repos/CDCgov/KPIP/downloads",
-        "homepageURL": "https://github.com/CDCgov/KPIP",
-        "laborHours": 0,
-        "languages": [
-            "Python",
-            "Shell"
-        ],
-        "name": "KPIP",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": null,
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/KPIP.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2020-05-15",
-            "lastModified": "2020-05-15"
-        },
-        "description": "Dash Demonstration of the File Uploader and Dynamic Populating Dropdown Menu",
-        "downloadURL": "https://api.github.com/repos/CDCgov/Dash_FileUploader/downloads",
-        "homepageURL": "https://github.com/CDCgov/Dash_FileUploader",
-        "laborHours": 0,
-        "languages": [
-            "Python"
-        ],
-        "name": "Dash_FileUploader",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/Dash_FileUploader.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2020-05-12",
-            "lastModified": "2020-07-17"
-        },
-        "description": "No description available...",
-        "downloadURL": "https://api.github.com/repos/CDCgov/erhms-info-manager/downloads",
-        "homepageURL": "https://github.com/CDCgov/erhms-info-manager",
-        "laborHours": 0,
-        "languages": [
-            "C#"
-        ],
-        "name": "erhms-info-manager",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/erhms-info-manager.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2020-04-15",
-            "lastModified": "2020-10-22"
-        },
-        "description": "GeneFlow: A Workflow Engine for Bioinformatics and Public Health Analytics",
-        "downloadURL": "https://api.github.com/repos/CDCgov/geneflow2/downloads",
-        "homepageURL": "https://github.com/CDCgov/geneflow2",
-        "laborHours": 0,
-        "languages": [
-            "Python",
-            "Shell",
-            "Gherkin",
-            "HTML",
-            "Dockerfile"
-        ],
-        "name": "geneflow2",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/geneflow2.git",
-        "status": "Development",
-        "tags": [
-            "github",
-            "bioinformatics",
-            "python",
-            "workflow"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2020-04-07",
-            "lastModified": "2020-09-08"
-        },
-        "description": "GeneFlow Public Reference Workflows",
-        "downloadURL": "https://api.github.com/repos/CDCgov/geneflow-workflows/downloads",
-        "homepageURL": "https://github.com/CDCgov/geneflow-workflows",
-        "laborHours": 0,
-        "languages": [],
-        "name": "geneflow-workflows",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/geneflow-workflows.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2020-04-06",
-            "lastModified": "2020-04-27"
-        },
-        "description": "No description available...",
-        "downloadURL": "https://api.github.com/repos/CDCgov/phlip-doc-management/downloads",
-        "homepageURL": "https://github.com/CDCgov/phlip-doc-management",
-        "laborHours": 0,
-        "languages": [
-            "JavaScript",
-            "CSS",
-            "Dockerfile",
-            "Shell"
-        ],
-        "name": "phlip-doc-management",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/phlip-doc-management.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2020-04-06",
-            "lastModified": "2020-04-27"
-        },
-        "description": "No description available...",
-        "downloadURL": "https://api.github.com/repos/CDCgov/phlip-backend/downloads",
-        "homepageURL": "https://github.com/CDCgov/phlip-backend",
-        "laborHours": 0,
-        "languages": [
-            "C#",
-            "Dockerfile",
-            "Shell"
-        ],
-        "name": "phlip-backend",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/phlip-backend.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2020-04-03",
-            "lastModified": "2020-05-11"
-        },
-        "description": "Remove Host Reads from Paired End Sequencing",
-        "downloadURL": "https://api.github.com/repos/CDCgov/SanitizeMePaired/downloads",
-        "homepageURL": "https://github.com/CDCgov/SanitizeMePaired",
-        "laborHours": 0,
-        "languages": [
-            "Python",
-            "Shell"
-        ],
-        "name": "SanitizeMePaired",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/SanitizeMePaired.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2020-03-28",
-            "lastModified": "2020-04-27"
-        },
-        "description": "No description available...",
-        "downloadURL": "https://api.github.com/repos/CDCgov/phlip/downloads",
-        "homepageURL": "https://github.com/CDCgov/phlip",
-        "laborHours": 0,
-        "languages": [
-            "JavaScript",
-            "CSS",
-            "HTML"
-        ],
-        "name": "phlip",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/phlip.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2020-03-27",
-            "lastModified": "2020-05-15"
-        },
-        "description": "Remove host contaminants from sequencing files",
-        "downloadURL": "https://api.github.com/repos/CDCgov/SanitizeMe/downloads",
-        "homepageURL": "https://github.com/CDCgov/SanitizeMe",
-        "laborHours": 0,
-        "languages": [
-            "Python",
-            "Shell"
-        ],
-        "name": "SanitizeMe",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/SanitizeMe.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2020-03-26",
-            "lastModified": "2020-10-23"
-        },
-        "description": "This project collects automated screening protocols and self-checker algorithms from organizations implementing CDC screening protocols in interactive web sites, chat bots, and other technology.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/covid19healthbot/downloads",
-        "homepageURL": "https://github.com/CDCgov/covid19healthbot",
-        "laborHours": 0,
-        "languages": [],
-        "name": "covid19healthbot",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/covid19healthbot.git",
-        "status": "Development",
-        "tags": [
-            "github",
-            "covid-19"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2020-03-18",
-            "lastModified": "2020-10-31"
-        },
-        "description": "A collection of sequencing protocols and bioinformatic resources for SARS-CoV-2 sequencing.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/SARS-CoV-2_Sequencing/downloads",
-        "homepageURL": "https://github.com/CDCgov/SARS-CoV-2_Sequencing",
-        "laborHours": 0,
-        "languages": [
-            "Perl"
-        ],
-        "name": "SARS-CoV-2_Sequencing",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/SARS-CoV-2_Sequencing.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2020-03-04",
-            "lastModified": "2020-05-21"
-        },
-        "description": "No description available...",
-        "downloadURL": "https://api.github.com/repos/CDCgov/legionella_pneumophila_genomics_speciesID/downloads",
-        "homepageURL": "https://github.com/CDCgov/legionella_pneumophila_genomics_speciesID",
-        "laborHours": 0,
-        "languages": [
-            "Perl",
-            "Dockerfile"
-        ],
-        "name": "legionella_pneumophila_genomics_speciesID",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": null,
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/legionella_pneumophila_genomics_speciesID.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2019-12-17",
-            "lastModified": "2020-10-18"
-        },
-        "description": "The Cancer Report Validator (CRV) is an interactive tool for validating the content of electronic submissions of cancer-related medical information prior to a system's communication with a public health central cancer registry. ",
-        "downloadURL": "https://api.github.com/repos/CDCgov/cancer-report-validator/downloads",
-        "homepageURL": "https://github.com/CDCgov/cancer-report-validator",
-        "laborHours": 0,
-        "languages": [
-            "Java",
-            "XSLT",
-            "Groovy",
-            "JavaScript",
-            "CSS",
-            "HTML"
-        ],
-        "name": "cancer-report-validator",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/cancer-report-validator.git",
-        "status": "Development",
-        "tags": [
-            "github",
-            "cancer",
-            "informatics",
-            "data-validation",
-            "hl7",
-            "cda",
-            "clinical-document-architecture",
-            "cancer-registry",
-            "cancer-reporting"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2019-10-07",
-            "lastModified": "2020-03-05"
-        },
-        "description": "This repository contains bioinformatics scripts and a Docker container to perform the in silico prediction of Legionella pneumophila serogroup from short read sequences using a supervised machine learning approach.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/legionella_pneumophila_genomics/downloads",
-        "homepageURL": "https://github.com/CDCgov/legionella_pneumophila_genomics",
-        "laborHours": 0,
-        "languages": [
-            "Shell",
-            "Python",
-            "R"
-        ],
-        "name": "legionella_pneumophila_genomics",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": null,
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/legionella_pneumophila_genomics.git",
-        "status": "Development",
-        "tags": [
-            "github",
-            "cdc",
-            "docker-container",
-            "legionella-pneumophila",
-            "prediction",
-            "usg-artificial-intelligence"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2019-08-26",
-            "lastModified": "2020-10-15"
-        },
-        "description": "React component for visualizing your data on a map of the United States based off work done for the CDC",
-        "downloadURL": "https://api.github.com/repos/CDCgov/CDC-Maps/downloads",
-        "homepageURL": "https://github.com/CDCgov/CDC-Maps",
-        "laborHours": 0,
-        "languages": [
-            "JavaScript",
-            "CSS",
-            "HTML"
-        ],
-        "name": "CDC-Maps",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/CDC-Maps.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2019-08-21",
-            "lastModified": "2019-08-30"
-        },
-        "description": "Demonstrations of deploying machine learning models in R, MLflow, and ECPaaS",
-        "downloadURL": "https://api.github.com/repos/CDCgov/SDP-MLaaS/downloads",
-        "homepageURL": "https://github.com/CDCgov/SDP-MLaaS",
-        "laborHours": 0,
-        "languages": [
-            "R",
-            "Python",
-            "Shell",
-            "Dockerfile"
-        ],
-        "name": "SDP-MLaaS",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": null,
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/SDP-MLaaS.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2019-07-29",
-            "lastModified": "2019-08-07"
-        },
-        "description": "A little web tool to help people join data tables (without writing code!)",
-        "downloadURL": "https://api.github.com/repos/CDCgov/TableMerger/downloads",
-        "homepageURL": "https://github.com/CDCgov/TableMerger",
-        "laborHours": 0,
-        "languages": [
-            "HTML",
-            "CSS"
-        ],
-        "name": "TableMerger",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/TableMerger.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2019-07-17",
-            "lastModified": "2020-03-25"
-        },
-        "description": "No description available...",
-        "downloadURL": "https://api.github.com/repos/CDCgov/Mia_publication/downloads",
-        "homepageURL": "https://github.com/CDCgov/Mia_publication",
-        "laborHours": 0,
-        "languages": [
-            "TSQL",
-            "R",
-            "Shell",
-            "Python"
-        ],
-        "name": "Mia_publication",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/Mia_publication.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2019-06-07",
-            "lastModified": "2019-06-07"
-        },
-        "description": "Project for HL7 Dev Days 2019 Redmond. Converts V2 PIDs to FHIR Patient Resources",
-        "downloadURL": "https://api.github.com/repos/CDCgov/pid2fhir/downloads",
-        "homepageURL": "https://github.com/CDCgov/pid2fhir",
-        "laborHours": 0,
-        "languages": [
-            "Kotlin"
-        ],
-        "name": "pid2fhir",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": null,
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/pid2fhir.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2019-05-24",
-            "lastModified": "2020-10-08"
-        },
-        "description": "Run Shiny. Make Gantt Charts.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/ShinyGanttCharts/downloads",
-        "homepageURL": "https://github.com/CDCgov/ShinyGanttCharts",
-        "laborHours": 0,
-        "languages": [
-            "R"
-        ],
-        "name": "ShinyGanttCharts",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/ShinyGanttCharts.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2019-04-23",
-            "lastModified": "2019-04-30"
-        },
-        "description": "A little web tool to help people translate CSVs to FASTA and vice-versa.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/CSV2FASTA/downloads",
-        "homepageURL": "https://github.com/CDCgov/CSV2FASTA",
-        "laborHours": 0,
-        "languages": [
-            "HTML",
-            "CSS"
-        ],
-        "name": "CSV2FASTA",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/CSV2FASTA.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2019-04-17",
-            "lastModified": "2020-07-27"
-        },
-        "description": "A client-side webapp to scrape data from the standard Epidemiological Interview Record",
-        "downloadURL": "https://api.github.com/repos/CDCgov/Ocra/downloads",
-        "homepageURL": "https://github.com/CDCgov/Ocra",
-        "laborHours": 0,
-        "languages": [
-            "JavaScript",
-            "HTML",
-            "CSS"
-        ],
-        "name": "Ocra",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/Ocra.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2019-03-19",
-            "lastModified": "2020-05-20"
-        },
-        "description": "GeneFlow: A Workflow Engine for Bioinformatics and Public Health Analytics",
-        "downloadURL": "https://api.github.com/repos/CDCgov/geneflow/downloads",
-        "homepageURL": "https://github.com/CDCgov/geneflow",
-        "laborHours": 0,
-        "languages": [
-            "Python",
-            "Shell",
-            "Gherkin",
-            "TSQL",
-            "Dockerfile"
-        ],
-        "name": "geneflow",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/geneflow.git",
-        "status": "Development",
-        "tags": [
-            "github",
-            "bioinformatics",
-            "python",
-            "workflow"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2019-03-18",
-            "lastModified": "2019-05-15"
-        },
-        "description": "A little R package to Launch MicrobeTrace in a Shiny Server",
-        "downloadURL": "https://api.github.com/repos/CDCgov/MicrobeTraceShiny/downloads",
-        "homepageURL": "https://github.com/CDCgov/MicrobeTraceShiny",
-        "laborHours": 0,
-        "languages": [
-            "R"
-        ],
-        "name": "MicrobeTraceShiny",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/MicrobeTraceShiny.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2019-03-07",
-            "lastModified": "2019-03-08"
-        },
-        "description": "Ruby Source-to-Image builder tailored to the needs of the SDP Vocabulary project.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/s2i-ruby-vocab-builder/downloads",
-        "homepageURL": "https://github.com/CDCgov/s2i-ruby-vocab-builder",
-        "laborHours": 0,
-        "languages": [
-            "Shell",
-            "Roff",
-            "Dockerfile",
-            "Makefile",
-            "Ruby"
-        ],
-        "name": "s2i-ruby-vocab-builder",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/s2i-ruby-vocab-builder.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2019-02-11",
-            "lastModified": "2019-02-11"
-        },
-        "description": "A Simple Demonstration of Organizing Bubbles using D3v5",
-        "downloadURL": "https://api.github.com/repos/CDCgov/Bubbles/downloads",
-        "homepageURL": "https://github.com/CDCgov/Bubbles",
-        "laborHours": 0,
-        "languages": [
-            "HTML",
-            "CSS",
-            "R"
-        ],
-        "name": "Bubbles",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "name": "NOASSERTION"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/Bubbles.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2019-01-14",
-            "lastModified": "2020-10-13"
-        },
-        "description": "Uncompromisingly Flexible Phylogenetic Trees in Javascript",
-        "downloadURL": "https://api.github.com/repos/CDCgov/TidyTree/downloads",
-        "homepageURL": "https://github.com/CDCgov/TidyTree",
-        "laborHours": 0,
-        "languages": [
-            "JavaScript",
-            "HTML"
-        ],
-        "name": "TidyTree",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/TidyTree.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2019-01-03",
-            "lastModified": "2019-08-05"
-        },
-        "description": "Spawn Normally-Distributed Mutant DNA Sequences",
-        "downloadURL": "https://api.github.com/repos/CDCgov/SeqSpawnR/downloads",
-        "homepageURL": "https://github.com/CDCgov/SeqSpawnR",
-        "laborHours": 0,
-        "languages": [
-            "R"
-        ],
-        "name": "SeqSpawnR",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/SeqSpawnR.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-12-14",
-            "lastModified": "2020-09-15"
-        },
-        "description": "A little library to work with Javascript File objects",
-        "downloadURL": "https://api.github.com/repos/CDCgov/fileto/downloads",
-        "homepageURL": "https://github.com/CDCgov/fileto",
-        "laborHours": 0,
-        "languages": [
-            "JavaScript"
-        ],
-        "name": "fileto",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/fileto.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-12-07",
-            "lastModified": "2020-03-10"
-        },
-        "description": "A stubbing service for testing against the various endpoints of the FDNS Microservices without running the full microservices in the background.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-stubbing/downloads",
-        "homepageURL": "https://github.com/CDCgov/fdns-ms-stubbing",
-        "laborHours": 0,
-        "languages": [
-            "JavaScript",
-            "Makefile",
-            "Dockerfile"
-        ],
-        "name": "fdns-ms-stubbing",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/fdns-ms-stubbing.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-12-04",
-            "lastModified": "2020-09-15"
-        },
-        "description": "A Phylogenetics toolkit for Javascript",
-        "downloadURL": "https://api.github.com/repos/CDCgov/patristic/downloads",
-        "homepageURL": "https://github.com/CDCgov/patristic",
-        "laborHours": 0,
-        "languages": [
-            "HTML",
-            "JavaScript",
-            "CSS",
-            "TeX"
-        ],
-        "name": "patristic",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/patristic.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-10-31",
-            "lastModified": "2020-03-06"
-        },
-        "description": "Example UI for an HL7 Combiner Tool",
-        "downloadURL": "https://api.github.com/repos/CDCgov/ex-ui-hl7-combiner/downloads",
-        "homepageURL": "https://github.com/CDCgov/ex-ui-hl7-combiner",
-        "laborHours": 0,
-        "languages": [
-            "JavaScript",
-            "HTML",
-            "CSS",
-            "Dockerfile",
-            "Makefile",
-            "Shell"
-        ],
-        "name": "ex-ui-hl7-combiner",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/ex-ui-hl7-combiner.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-09-21",
-            "lastModified": "2020-10-31"
-        },
-        "description": "The Visualization Multitool for Molecular Epidemiology and Bioinformatics",
-        "downloadURL": "https://api.github.com/repos/CDCgov/MicrobeTrace/downloads",
-        "homepageURL": "https://github.com/CDCgov/MicrobeTrace",
-        "laborHours": 0,
-        "languages": [
-            "HTML",
-            "JavaScript",
-            "CSS",
-            "Shell",
-            "Dockerfile"
-        ],
-        "name": "MicrobeTrace",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/MicrobeTrace.git",
-        "status": "Development",
-        "tags": [
-            "github",
-            "bioinformatics",
-            "epidemiology",
-            "network-visualization",
-            "hiv",
-            "cdc",
-            "pathogens",
-            "phylogenetics",
-            "phylogenetic-trees",
-            "phylogeny",
-            "phylogenomics",
-            "genomics",
-            "genomics-visualization",
-            "genomic-data-analysis",
-            "sequence-alignment"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-09-06",
-            "lastModified": "2020-03-04"
-        },
-        "description": "This is the repository with the Java Library for Foundation Services Kafka workers.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/fdns-kafka-library/downloads",
-        "homepageURL": "https://github.com/CDCgov/fdns-kafka-library",
-        "laborHours": 0,
-        "languages": [
-            "Java"
-        ],
-        "name": "fdns-kafka-library",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/fdns-kafka-library.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-08-09",
-            "lastModified": "2020-03-04"
-        },
-        "description": "This is the repository for the cryptography microservice.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-crypto/downloads",
-        "homepageURL": "https://github.com/CDCgov/fdns-ms-crypto",
-        "laborHours": 0,
-        "languages": [],
-        "name": "fdns-ms-crypto",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": null,
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/fdns-ms-crypto.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-08-09",
-            "lastModified": "2020-03-05"
-        },
-        "description": "This is the repository that contains the Kafka workers to handle the generation of reports.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-reporting-kafka/downloads",
-        "homepageURL": "https://github.com/CDCgov/fdns-ms-reporting-kafka",
-        "laborHours": 0,
-        "languages": [
-            "Java",
-            "Makefile",
-            "Dockerfile",
-            "Shell"
-        ],
-        "name": "fdns-ms-reporting-kafka",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/fdns-ms-reporting-kafka.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-08-09",
-            "lastModified": "2020-03-05"
-        },
-        "description": "This is the repository for the reporting microservice.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-reporting/downloads",
-        "homepageURL": "https://github.com/CDCgov/fdns-ms-reporting",
-        "laborHours": 0,
-        "languages": [
-            "Java",
-            "HTML",
-            "Makefile",
-            "Dockerfile"
-        ],
-        "name": "fdns-ms-reporting",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/fdns-ms-reporting.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-08-09",
-            "lastModified": "2020-03-10"
-        },
-        "description": "This is the repository with the Microsoft Utilities microservice for parsing Microsoft formatted documents.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-msft-utils/downloads",
-        "homepageURL": "https://github.com/CDCgov/fdns-ms-msft-utils",
-        "laborHours": 0,
-        "languages": [
-            "Java",
-            "HTML",
-            "Dockerfile",
-            "Makefile"
-        ],
-        "name": "fdns-ms-msft-utils",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/fdns-ms-msft-utils.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-04-06",
-            "lastModified": "2018-08-23"
-        },
-        "description": "This is the repository extending the Springfox Swagger UI package to meet CDC browser requirements.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/springfox-swagger-ui/downloads",
-        "homepageURL": "https://github.com/CDCgov/springfox-swagger-ui",
-        "laborHours": 0,
-        "languages": [
-            "HTML",
-            "JavaScript",
-            "CSS"
-        ],
-        "name": "springfox-swagger-ui",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/springfox-swagger-ui.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-04-03",
-            "lastModified": "2020-08-29"
-        },
-        "description": "This is the repository with the Business Rules Engine for ingesting and validating JSON files.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-rules/downloads",
-        "homepageURL": "https://github.com/CDCgov/fdns-ms-rules",
-        "laborHours": 0,
-        "languages": [
-            "Java",
-            "HTML",
-            "Dockerfile",
-            "Makefile"
-        ],
-        "name": "fdns-ms-rules",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/fdns-ms-rules.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-04-03",
-            "lastModified": "2020-03-10"
-        },
-        "description": "This is the repository with the Combiner service to combine JSON files into a single CSV or XLSX file.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-combiner/downloads",
-        "homepageURL": "https://github.com/CDCgov/fdns-ms-combiner",
-        "laborHours": 0,
-        "languages": [
-            "Java",
-            "HTML",
-            "Dockerfile",
-            "Makefile",
-            "Shell"
-        ],
-        "name": "fdns-ms-combiner",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/fdns-ms-combiner.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-04-03",
-            "lastModified": "2020-03-04"
-        },
-        "description": "This is the repository with the CDA utilities service to parse, validate and generate sample CDA data.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-cda-utils/downloads",
-        "homepageURL": "https://github.com/CDCgov/fdns-ms-cda-utils",
-        "laborHours": 0,
-        "languages": [
-            "FreeMarker",
-            "Java",
-            "HTML",
-            "Dockerfile",
-            "Makefile"
-        ],
-        "name": "fdns-ms-cda-utils",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/fdns-ms-cda-utils.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-04-03",
-            "lastModified": "2020-06-26"
-        },
-        "description": "This is the repository with the HL7 utilities service to parse, validate and generate sample HL7 data.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-hl7-utils/downloads",
-        "homepageURL": "https://github.com/CDCgov/fdns-ms-hl7-utils",
-        "laborHours": 0,
-        "languages": [
-            "Java",
-            "HTML",
-            "FreeMarker",
-            "Dockerfile",
-            "Makefile"
-        ],
-        "name": "fdns-ms-hl7-utils",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/fdns-ms-hl7-utils.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-04-03",
-            "lastModified": "2020-08-29"
-        },
-        "description": "This is the repository with the Indexing layer for the Data Lake. This is the navigation layer.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-indexing/downloads",
-        "homepageURL": "https://github.com/CDCgov/fdns-ms-indexing",
-        "laborHours": 0,
-        "languages": [
-            "Java",
-            "HTML",
-            "Dockerfile",
-            "Makefile"
-        ],
-        "name": "fdns-ms-indexing",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/fdns-ms-indexing.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-04-03",
-            "lastModified": "2020-08-29"
-        },
-        "description": "This is the repository with the Object layer for the Data Lake. This is the mutable layer.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-object/downloads",
-        "homepageURL": "https://github.com/CDCgov/fdns-ms-object",
-        "laborHours": 0,
-        "languages": [
-            "Java",
-            "HTML",
-            "Dockerfile",
-            "Makefile"
-        ],
-        "name": "fdns-ms-object",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/fdns-ms-object.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-04-03",
-            "lastModified": "2020-08-29"
-        },
-        "description": "This is the repository with the Storage layer for the Data Lake. This is the immutable layer.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-storage/downloads",
-        "homepageURL": "https://github.com/CDCgov/fdns-ms-storage",
-        "laborHours": 0,
-        "languages": [
-            "Java",
-            "HTML",
-            "Dockerfile",
-            "Makefile"
-        ],
-        "name": "fdns-ms-storage",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/fdns-ms-storage.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-04-03",
-            "lastModified": "2020-03-06"
-        },
-        "description": "This is the repository with the API gateway to connect the other microservices together.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-gateway/downloads",
-        "homepageURL": "https://github.com/CDCgov/fdns-ms-gateway",
-        "laborHours": 0,
-        "languages": [
-            "HTML",
-            "Java",
-            "Dockerfile",
-            "Shell",
-            "Makefile"
-        ],
-        "name": "fdns-ms-gateway",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/fdns-ms-gateway.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-04-03",
-            "lastModified": "2020-03-10"
-        },
-        "description": "This the repository with the Java Library for the Business Rules Engine.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/fdns-rules-engine/downloads",
-        "homepageURL": "https://github.com/CDCgov/fdns-rules-engine",
-        "laborHours": 0,
-        "languages": [
-            "Java"
-        ],
-        "name": "fdns-rules-engine",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/fdns-rules-engine.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-04-03",
-            "lastModified": "2020-09-09"
-        },
-        "description": "This is the repository with the Java SDK for Foundation Services.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/fdns-java-sdk/downloads",
-        "homepageURL": "https://github.com/CDCgov/fdns-java-sdk",
-        "laborHours": 0,
-        "languages": [
-            "Java",
-            "Makefile"
-        ],
-        "name": "fdns-java-sdk",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/fdns-java-sdk.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-04-03",
-            "lastModified": "2020-03-05"
-        },
-        "description": "This is the repository with the JavaScript SDK for Foundation Services.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/fdns-js-sdk/downloads",
-        "homepageURL": "https://github.com/CDCgov/fdns-js-sdk",
-        "laborHours": 0,
-        "languages": [
-            "JavaScript"
-        ],
-        "name": "fdns-js-sdk",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/fdns-js-sdk.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-04-03",
-            "lastModified": "2020-09-11"
-        },
-        "description": "A collection of reusable React components for quickly building modern and accessible web applications.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ui-react/downloads",
-        "homepageURL": "https://github.com/CDCgov/fdns-ui-react",
-        "laborHours": 0,
-        "languages": [
-            "JavaScript",
-            "SCSS",
-            "HTML"
-        ],
-        "name": "fdns-ui-react",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/fdns-ui-react.git",
-        "status": "Development",
-        "tags": [
-            "github",
-            "fdns",
-            "react",
-            "ui-library"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-03-19",
-            "lastModified": "2019-05-15"
-        },
-        "description": "Pick a county, see its neighbors",
-        "downloadURL": "https://api.github.com/repos/CDCgov/Proximate/downloads",
-        "homepageURL": "https://github.com/CDCgov/Proximate",
-        "laborHours": 0,
-        "languages": [
-            "JavaScript",
-            "HTML",
-            "CSS"
-        ],
-        "name": "Proximate",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": null,
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/Proximate.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-02-07",
-            "lastModified": "2020-09-15"
-        },
-        "description": "Tamura-Nei '93 Computation in Javascript",
-        "downloadURL": "https://api.github.com/repos/CDCgov/tn93.js/downloads",
-        "homepageURL": "https://github.com/CDCgov/tn93.js",
-        "laborHours": 0,
-        "languages": [
-            "JavaScript",
-            "HTML",
-            "CSS"
-        ],
-        "name": "tn93.js",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/tn93.js.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2018-02-07",
-            "lastModified": "2020-10-15"
-        },
-        "description": "A lightweight visualization for genetic sequence alignments",
-        "downloadURL": "https://api.github.com/repos/CDCgov/AlignmentViewer/downloads",
-        "homepageURL": "https://github.com/CDCgov/AlignmentViewer",
-        "laborHours": 0,
-        "languages": [
-            "JavaScript",
-            "HTML"
-        ],
-        "name": "AlignmentViewer",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/AlignmentViewer.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2017-12-25",
-            "lastModified": "2020-10-15"
-        },
-        "description": "An application to assist Utah CDC's Newborn Screening Program",
-        "downloadURL": "https://api.github.com/repos/CDCgov/artemis/downloads",
-        "homepageURL": "https://github.com/CDCgov/artemis",
-        "laborHours": 0,
-        "languages": [
-            "Ruby",
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "Dockerfile"
-        ],
-        "name": "artemis",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "name": "NOASSERTION"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/artemis.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2017-12-06",
-            "lastModified": "2020-07-07"
-        },
-        "description": "See Readme",
-        "downloadURL": "https://api.github.com/repos/CDCgov/MaRS/downloads",
-        "homepageURL": "https://github.com/CDCgov/MaRS",
-        "laborHours": 0,
-        "languages": [],
-        "name": "MaRS",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": null,
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/MaRS.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2017-06-21",
-            "lastModified": "2020-10-07"
-        },
-        "description": "No description available...",
-        "downloadURL": "https://api.github.com/repos/CDCgov/openshift-fluentd-forwarder/downloads",
-        "homepageURL": "https://github.com/CDCgov/openshift-fluentd-forwarder",
-        "laborHours": 0,
-        "languages": [
-            "Shell",
-            "Dockerfile"
-        ],
-        "name": "openshift-fluentd-forwarder",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/openshift-fluentd-forwarder.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2017-05-30",
-            "lastModified": "2017-06-15"
-        },
-        "description": "No description available...",
-        "downloadURL": "https://api.github.com/repos/CDCgov/SDP-CBR-Broker/downloads",
-        "homepageURL": "https://github.com/CDCgov/SDP-CBR-Broker",
-        "laborHours": 0,
-        "languages": [
-            "HTML",
-            "Ruby"
-        ],
-        "name": "SDP-CBR-Broker",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/SDP-CBR-Broker.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2017-04-10",
-            "lastModified": "2019-05-09"
-        },
-        "description": "No description available...",
-        "downloadURL": "https://api.github.com/repos/CDCgov/SDP-CBR/downloads",
-        "homepageURL": "https://github.com/CDCgov/SDP-CBR",
-        "laborHours": 0,
-        "languages": [
-            "Java",
-            "ANTLR",
-            "Shell",
-            "Ruby"
-        ],
-        "name": "SDP-CBR",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/SDP-CBR.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2017-04-10",
-            "lastModified": "2019-12-13"
-        },
-        "description": "Natural Language processing for Pathology reports on cancer histology, laterality, side, and behavior.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/NLPWorkbench/downloads",
-        "homepageURL": "https://github.com/CDCgov/NLPWorkbench",
-        "laborHours": 0,
-        "languages": [
-            "HTML",
-            "Java",
-            "Python",
-            "PLpgSQL",
-            "JavaScript",
-            "Mako",
-            "CSS",
-            "C++",
-            "Shell",
-            "Perl",
-            "Roff",
-            "PowerShell",
-            "C#",
-            "Pascal",
-            "C",
-            "Makefile",
-            "Batchfile",
-            "Groovy",
-            "Puppet",
-            "TeX",
-            "Smarty",
-            "PLSQL",
-            "XSLT",
-            "SQLPL",
-            "Bluespec",
-            "Dockerfile",
-            "Ruby",
-            "Jupyter Notebook",
-            "ASP"
-        ],
-        "name": "NLPWorkbench",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/NLPWorkbench.git",
-        "status": "Development",
-        "tags": [
-            "github",
-            "usg-artificial-intelligence",
-            "usg-natural-language-processing"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2016-09-19",
-            "lastModified": "2020-10-31"
-        },
-        "description": "Repository for the SDP Vocabulary Service.",
-        "downloadURL": "https://api.github.com/repos/CDCgov/SDP-Vocabulary-Service/downloads",
-        "homepageURL": "https://github.com/CDCgov/SDP-Vocabulary-Service",
-        "laborHours": 0,
-        "languages": [
-            "JavaScript",
-            "Ruby",
-            "CSS",
-            "Gherkin",
-            "HTML",
-            "Shell"
-        ],
-        "name": "SDP-Vocabulary-Service",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/SDP-Vocabulary-Service.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
-    },
-    {
-        "contact": {
-            "URL": "https://github.com/CDCgov",
-            "email": "cdcinfo@cdc.gov"
-        },
-        "date": {
-            "created": "2016-05-20",
-            "lastModified": "2020-05-22"
-        },
-        "description": "PoSE: (Pattern of Sequence Evolution) provides visualization and annotation of amino acid substitutions to help determine major patterns during sequence evolution of protein-coding sequences, hypervariable regions, or changes in dN/dS ratios. ",
-        "downloadURL": "https://api.github.com/repos/CDCgov/PoSE/downloads",
-        "homepageURL": "https://github.com/CDCgov/PoSE",
-        "laborHours": 0,
-        "languages": [],
-        "name": "PoSE",
-        "organization": "Centers for Disease Control and Prevention",
-        "permissions": {
-            "licenses": [
-                {
-                    "URL": "https://api.github.com/licenses/apache-2.0",
-                    "name": "Apache-2.0"
-                }
-            ],
-            "usageType": "openSource"
-        },
-        "repositoryURL": "git://github.com/CDCgov/PoSE.git",
-        "status": "Development",
-        "tags": [
-            "github"
-        ],
-        "vcs": "git"
+      "contact": {
+        "URL": "https://github.com/cdcai",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2019-12-17",
+        "lastModified": "2020-03-16"
+      },
+      "description": "Text classification algorithms for autism surveillance",
+      "downloadURL": "https://api.github.com/repos/cdcai/autism_surveillance/downloads",
+      "homepageURL": "https://github.com/cdcai/autism_surveillance",
+      "laborHours": 0,
+      "languages": [
+        "Python",
+        "R"
+      ],
+      "name": "autism_surveillance",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/cdcai/autism_surveillance.git",
+      "status": "Development",
+      "tags": [
+        "github",
+        "usg-artificial-intelligence",
+        "usg-natural-language-processing"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/cdcai",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2019-10-16",
+        "lastModified": "2020-03-16"
+      },
+      "description": "Random examples of Tensorflow in R",
+      "downloadURL": "https://api.github.com/repos/cdcai/R-tensorflow-projects/downloads",
+      "homepageURL": "https://github.com/cdcai/R-tensorflow-projects",
+      "laborHours": 0,
+      "languages": [
+        "R"
+      ],
+      "name": "R-tensorflow-projects",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/mit",
+            "name": "MIT"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/cdcai/R-tensorflow-projects.git",
+      "status": "Development",
+      "tags": [
+        "github",
+        "usg-artificial-intelligence"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/cdcai",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2019-10-10",
+        "lastModified": "2020-03-16"
+      },
+      "description": "Train model to identify water cooling towers from high-resolution aerial imagery ",
+      "downloadURL": "https://api.github.com/repos/cdcai/coolit.train/downloads",
+      "homepageURL": "https://github.com/cdcai/coolit.train",
+      "laborHours": 0,
+      "languages": [
+        "R"
+      ],
+      "name": "coolit.train",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "name": "NOASSERTION"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/cdcai/coolit.train.git",
+      "status": "Development",
+      "tags": [
+        "github",
+        "usg-artificial-intelligence",
+        "object-detection",
+        "r",
+        "gis",
+        "legionella"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/cdcai",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2019-10-08",
+        "lastModified": "2020-07-06"
+      },
+      "description": "An ensemble of BERTs for classifying injury narratives",
+      "downloadURL": "https://api.github.com/repos/cdcai/injury-autocoding/downloads",
+      "homepageURL": "https://github.com/cdcai/injury-autocoding",
+      "laborHours": 0,
+      "languages": [
+        "Python",
+        "Jupyter Notebook",
+        "Batchfile"
+      ],
+      "name": "injury-autocoding",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/cdcai/injury-autocoding.git",
+      "status": "Development",
+      "tags": [
+        "github",
+        "usg-artificial-intelligence",
+        "usg-natural-language-processing",
+        "bert",
+        "text-classification",
+        "python"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/cdcai",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2019-10-08",
+        "lastModified": "2020-03-16"
+      },
+      "description": "Natural language generation for discrete data in EHRs",
+      "downloadURL": "https://api.github.com/repos/cdcai/NRC/downloads",
+      "homepageURL": "https://github.com/cdcai/NRC",
+      "laborHours": 0,
+      "languages": [
+        "Python"
+      ],
+      "name": "NRC",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/cdcai/NRC.git",
+      "status": "Development",
+      "tags": [
+        "github",
+        "usg-artificial-intelligence",
+        "usg-natural-language-processing",
+        "natural-language-generation",
+        "electronic-health-record"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/cdcai",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2019-10-08",
+        "lastModified": "2020-07-06"
+      },
+      "description": "Classifying multimodal health data with LSTMs",
+      "downloadURL": "https://api.github.com/repos/cdcai/enriched-LSTMs/downloads",
+      "homepageURL": "https://github.com/cdcai/enriched-LSTMs",
+      "laborHours": 0,
+      "languages": [
+        "Python"
+      ],
+      "name": "enriched-LSTMs",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/cdcai/enriched-LSTMs.git",
+      "status": "Development",
+      "tags": [
+        "github",
+        "usg-artificial-intelligence",
+        "multimodal-deep-learning",
+        "biomedical-informatics"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/informaticslab",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2016-08-24",
+        "lastModified": "2016-08-24"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/informaticslab/zika-pregnancy-testing/downloads",
+      "homepageURL": "https://github.com/informaticslab/zika-pregnancy-testing",
+      "laborHours": 0,
+      "languages": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "name": "zika-pregnancy-testing",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": null,
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/informaticslab/zika-pregnancy-testing.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/informaticslab",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2016-06-13",
+        "lastModified": "2016-12-15"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/informaticslab/zika-risk-assessment/downloads",
+      "homepageURL": "https://github.com/informaticslab/zika-risk-assessment",
+      "laborHours": 0,
+      "languages": [
+        "HTML",
+        "JavaScript",
+        "CSS"
+      ],
+      "name": "zika-risk-assessment",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": null,
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/informaticslab/zika-risk-assessment.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/informaticslab",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2012-11-29",
+        "lastModified": "2016-11-08"
+      },
+      "description": "PTT Advisor iOS app to provide clinical decision support for prolonged partial thromboplastin time (PTT).",
+      "downloadURL": "https://api.github.com/repos/informaticslab/ptt-advisor/downloads",
+      "homepageURL": "https://github.com/informaticslab/ptt-advisor",
+      "laborHours": 0,
+      "languages": [
+        "Objective-C",
+        "HTML"
+      ],
+      "name": "ptt-advisor",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": null,
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/informaticslab/ptt-advisor.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/Epi-Info",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-04-30",
+        "lastModified": "2018-11-19"
+      },
+      "description": "REST API to interface with Epi Info web platform and Epi Info 7",
+      "downloadURL": "https://api.github.com/repos/Epi-Info/Epi-Info-Survey-API/downloads",
+      "homepageURL": "https://github.com/Epi-Info/Epi-Info-Survey-API",
+      "laborHours": 0,
+      "languages": [
+        "C#",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "ASP"
+      ],
+      "name": "Epi-Info-Survey-API",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": null,
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/Epi-Info/Epi-Info-Survey-API.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/Epi-Info",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2017-11-30",
+        "lastModified": "2020-04-29"
+      },
+      "description": "Epi Info™ Companion for Android",
+      "downloadURL": "https://api.github.com/repos/Epi-Info/Epi-Info-Android/downloads",
+      "homepageURL": "https://github.com/Epi-Info/Epi-Info-Android",
+      "laborHours": 0,
+      "languages": [
+        "Java",
+        "HTML"
+      ],
+      "name": "Epi-Info-Android",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/Epi-Info/Epi-Info-Android.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/Epi-Info",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2017-11-20",
+        "lastModified": "2020-10-28"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/Epi-Info/Epi-Info-Web-Survey/downloads",
+      "homepageURL": "https://github.com/Epi-Info/Epi-Info-Web-Survey",
+      "laborHours": 0,
+      "languages": [
+        "C#",
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "PowerShell",
+        "ASP.NET"
+      ],
+      "name": "Epi-Info-Web-Survey",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": null,
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/Epi-Info/Epi-Info-Web-Survey.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/Epi-Info",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2017-09-14",
+        "lastModified": "2020-10-28"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/Epi-Info/Epi-Info-Community-Edition/downloads",
+      "homepageURL": "https://github.com/Epi-Info/Epi-Info-Community-Edition",
+      "laborHours": 0,
+      "languages": [
+        "C#",
+        "Visual Basic .NET",
+        "HTML",
+        "TSQL",
+        "Rich Text Format",
+        "Roff",
+        "ASP.NET",
+        "Batchfile"
+      ],
+      "name": "Epi-Info-Community-Edition",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/Epi-Info/Epi-Info-Community-Edition.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/Epi-Info",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2017-08-21",
+        "lastModified": "2020-09-02"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/Epi-Info/Epi-Info-Cloud-Data-Capture/downloads",
+      "homepageURL": "https://github.com/Epi-Info/Epi-Info-Cloud-Data-Capture",
+      "laborHours": 0,
+      "languages": [
+        "C#",
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "TSQL",
+        "ASP"
+      ],
+      "name": "Epi-Info-Cloud-Data-Capture",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/Epi-Info/Epi-Info-Cloud-Data-Capture.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/Epi-Info",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2016-04-11",
+        "lastModified": "2020-06-24"
+      },
+      "description": "Epi Info's scalable Cloud Contact Tracing platform build using .NET framework and Azure PaaS services ",
+      "downloadURL": "https://api.github.com/repos/Epi-Info/Epi-Info-Cloud-Contact-Tracing/downloads",
+      "homepageURL": "https://github.com/Epi-Info/Epi-Info-Cloud-Contact-Tracing",
+      "laborHours": 0,
+      "languages": [
+        "C#",
+        "JavaScript",
+        "CSS",
+        "PLpgSQL",
+        "PowerShell",
+        "ASP",
+        "HTML",
+        "Roff"
+      ],
+      "name": "Epi-Info-Cloud-Contact-Tracing",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/Epi-Info/Epi-Info-Cloud-Contact-Tracing.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/Epi-Info",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2016-01-22",
+        "lastModified": "2020-09-24"
+      },
+      "description": "Epi Info™ Companion for iOS",
+      "downloadURL": "https://api.github.com/repos/Epi-Info/Epi-Info-iOS/downloads",
+      "homepageURL": "https://github.com/Epi-Info/Epi-Info-iOS",
+      "laborHours": 0,
+      "languages": [
+        "Objective-C",
+        "C",
+        "Swift",
+        "HTML",
+        "Rich Text Format"
+      ],
+      "name": "Epi-Info-iOS",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/Epi-Info/Epi-Info-iOS.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-09-15",
+        "lastModified": "2020-10-28"
+      },
+      "description": "This repository analyzes viral genomes using Nextstrain to understand how SARS-CoV-2, the virus that is responsible for the COVID-19 pandemic, evolves and spreads. This is a copy of the original Nextstrain ncov repository, which will (by default) build augur all 50 states + DC + PR using the same parameters and subsampling strategy.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/spheres-augur-build/downloads",
+      "homepageURL": "https://github.com/CDCgov/spheres-augur-build",
+      "laborHours": 0,
+      "languages": [
+        "Python",
+        "Shell"
+      ],
+      "name": "spheres-augur-build",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/spheres-augur-build.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-09-14",
+        "lastModified": "2020-10-27"
+      },
+      "description": "Starter kit for use in creating new React projects",
+      "downloadURL": "https://api.github.com/repos/CDCgov/react-starter-kit/downloads",
+      "homepageURL": "https://github.com/CDCgov/react-starter-kit",
+      "laborHours": 0,
+      "languages": [
+        "JavaScript",
+        "SCSS",
+        "HTML"
+      ],
+      "name": "react-starter-kit",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/react-starter-kit.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-08-24",
+        "lastModified": "2020-08-26"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/CDCgov/MBAgeneratoR/downloads",
+      "homepageURL": "https://github.com/CDCgov/MBAgeneratoR",
+      "laborHours": 0,
+      "languages": [],
+      "name": "MBAgeneratoR",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/MBAgeneratoR.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-08-13",
+        "lastModified": "2020-08-14"
+      },
+      "description": "A Radical Alternative to Conventional Phylogenetic Tree Renderers",
+      "downloadURL": "https://api.github.com/repos/CDCgov/PhysicsTree/downloads",
+      "homepageURL": "https://github.com/CDCgov/PhysicsTree",
+      "laborHours": 0,
+      "languages": [
+        "HTML"
+      ],
+      "name": "PhysicsTree",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/PhysicsTree.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-08-12",
+        "lastModified": "2020-08-12"
+      },
+      "description": "A simple, all-client-side web app to transform Adjacency lists into Edge Lists",
+      "downloadURL": "https://api.github.com/repos/CDCgov/LongAdjacency/downloads",
+      "homepageURL": "https://github.com/CDCgov/LongAdjacency",
+      "laborHours": 0,
+      "languages": [
+        "HTML",
+        "JavaScript"
+      ],
+      "name": "LongAdjacency",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/LongAdjacency.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-07-15",
+        "lastModified": "2020-10-31"
+      },
+      "description": "Contains functions for pulling publicly-available global COVID-19 case and testing data for analysis and populating a Power BI dashboard.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/ITF_Power_BI/downloads",
+      "homepageURL": "https://github.com/CDCgov/ITF_Power_BI",
+      "laborHours": 0,
+      "languages": [
+        "R"
+      ],
+      "name": "ITF_Power_BI",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/ITF_Power_BI.git",
+      "status": "Development",
+      "tags": [
+        "github",
+        "covid-19",
+        "global-health",
+        "viz",
+        "powerbi"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-07-07",
+        "lastModified": "2020-10-14"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/CDCgov/NeST/downloads",
+      "homepageURL": "https://github.com/CDCgov/NeST",
+      "laborHours": 0,
+      "languages": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML",
+        "R",
+        "Shell"
+      ],
+      "name": "NeST",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": null,
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/NeST.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-06-26",
+        "lastModified": "2020-10-29"
+      },
+      "description": "The Bacterial Meningitis Genome Analysis Platform, an analysis pipeline, ExpressJS API, and ReactJS webapp for the analysis and characterization of bacterial meningitis samples",
+      "downloadURL": "https://api.github.com/repos/CDCgov/BMGAP/downloads",
+      "homepageURL": "https://github.com/CDCgov/BMGAP",
+      "laborHours": 0,
+      "languages": [
+        "Python",
+        "Perl",
+        "JavaScript",
+        "Shell",
+        "HTML",
+        "SCSS",
+        "CSS"
+      ],
+      "name": "BMGAP",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/BMGAP.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-05-29",
+        "lastModified": "2020-05-29"
+      },
+      "description": "Kmer Pathogen Identification Platform",
+      "downloadURL": "https://api.github.com/repos/CDCgov/KPIP/downloads",
+      "homepageURL": "https://github.com/CDCgov/KPIP",
+      "laborHours": 0,
+      "languages": [
+        "Python",
+        "Shell"
+      ],
+      "name": "KPIP",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": null,
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/KPIP.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-05-15",
+        "lastModified": "2020-05-15"
+      },
+      "description": "Dash Demonstration of the File Uploader and Dynamic Populating Dropdown Menu",
+      "downloadURL": "https://api.github.com/repos/CDCgov/Dash_FileUploader/downloads",
+      "homepageURL": "https://github.com/CDCgov/Dash_FileUploader",
+      "laborHours": 0,
+      "languages": [
+        "Python"
+      ],
+      "name": "Dash_FileUploader",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/Dash_FileUploader.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-05-12",
+        "lastModified": "2020-07-17"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/CDCgov/erhms-info-manager/downloads",
+      "homepageURL": "https://github.com/CDCgov/erhms-info-manager",
+      "laborHours": 0,
+      "languages": [
+        "C#"
+      ],
+      "name": "erhms-info-manager",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/erhms-info-manager.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-04-15",
+        "lastModified": "2020-10-22"
+      },
+      "description": "GeneFlow: A Workflow Engine for Bioinformatics and Public Health Analytics",
+      "downloadURL": "https://api.github.com/repos/CDCgov/geneflow2/downloads",
+      "homepageURL": "https://github.com/CDCgov/geneflow2",
+      "laborHours": 0,
+      "languages": [
+        "Python",
+        "Shell",
+        "Gherkin",
+        "HTML",
+        "Dockerfile"
+      ],
+      "name": "geneflow2",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/geneflow2.git",
+      "status": "Development",
+      "tags": [
+        "github",
+        "bioinformatics",
+        "python",
+        "workflow"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-04-07",
+        "lastModified": "2020-09-08"
+      },
+      "description": "GeneFlow Public Reference Workflows",
+      "downloadURL": "https://api.github.com/repos/CDCgov/geneflow-workflows/downloads",
+      "homepageURL": "https://github.com/CDCgov/geneflow-workflows",
+      "laborHours": 0,
+      "languages": [],
+      "name": "geneflow-workflows",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/geneflow-workflows.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-04-06",
+        "lastModified": "2020-04-27"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/CDCgov/phlip-doc-management/downloads",
+      "homepageURL": "https://github.com/CDCgov/phlip-doc-management",
+      "laborHours": 0,
+      "languages": [
+        "JavaScript",
+        "CSS",
+        "Dockerfile",
+        "Shell"
+      ],
+      "name": "phlip-doc-management",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/phlip-doc-management.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-04-06",
+        "lastModified": "2020-04-27"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/CDCgov/phlip-backend/downloads",
+      "homepageURL": "https://github.com/CDCgov/phlip-backend",
+      "laborHours": 0,
+      "languages": [
+        "C#",
+        "Dockerfile",
+        "Shell"
+      ],
+      "name": "phlip-backend",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/phlip-backend.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-04-03",
+        "lastModified": "2020-05-11"
+      },
+      "description": "Remove Host Reads from Paired End Sequencing",
+      "downloadURL": "https://api.github.com/repos/CDCgov/SanitizeMePaired/downloads",
+      "homepageURL": "https://github.com/CDCgov/SanitizeMePaired",
+      "laborHours": 0,
+      "languages": [
+        "Python",
+        "Shell"
+      ],
+      "name": "SanitizeMePaired",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/SanitizeMePaired.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-03-28",
+        "lastModified": "2020-04-27"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/CDCgov/phlip/downloads",
+      "homepageURL": "https://github.com/CDCgov/phlip",
+      "laborHours": 0,
+      "languages": [
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "name": "phlip",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/phlip.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-03-27",
+        "lastModified": "2020-05-15"
+      },
+      "description": "Remove host contaminants from sequencing files",
+      "downloadURL": "https://api.github.com/repos/CDCgov/SanitizeMe/downloads",
+      "homepageURL": "https://github.com/CDCgov/SanitizeMe",
+      "laborHours": 0,
+      "languages": [
+        "Python",
+        "Shell"
+      ],
+      "name": "SanitizeMe",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/SanitizeMe.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-03-26",
+        "lastModified": "2020-10-23"
+      },
+      "description": "This project collects automated screening protocols and self-checker algorithms from organizations implementing CDC screening protocols in interactive web sites, chat bots, and other technology.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/covid19healthbot/downloads",
+      "homepageURL": "https://github.com/CDCgov/covid19healthbot",
+      "laborHours": 0,
+      "languages": [],
+      "name": "covid19healthbot",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/covid19healthbot.git",
+      "status": "Development",
+      "tags": [
+        "github",
+        "covid-19"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-03-18",
+        "lastModified": "2020-10-31"
+      },
+      "description": "A collection of sequencing protocols and bioinformatic resources for SARS-CoV-2 sequencing.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/SARS-CoV-2_Sequencing/downloads",
+      "homepageURL": "https://github.com/CDCgov/SARS-CoV-2_Sequencing",
+      "laborHours": 0,
+      "languages": [
+        "Perl"
+      ],
+      "name": "SARS-CoV-2_Sequencing",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/SARS-CoV-2_Sequencing.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-03-04",
+        "lastModified": "2020-05-21"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/CDCgov/legionella_pneumophila_genomics_speciesID/downloads",
+      "homepageURL": "https://github.com/CDCgov/legionella_pneumophila_genomics_speciesID",
+      "laborHours": 0,
+      "languages": [
+        "Perl",
+        "Dockerfile"
+      ],
+      "name": "legionella_pneumophila_genomics_speciesID",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": null,
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/legionella_pneumophila_genomics_speciesID.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2019-12-17",
+        "lastModified": "2020-10-18"
+      },
+      "description": "The Cancer Report Validator (CRV) is an interactive tool for validating the content of electronic submissions of cancer-related medical information prior to a system's communication with a public health central cancer registry. ",
+      "downloadURL": "https://api.github.com/repos/CDCgov/cancer-report-validator/downloads",
+      "homepageURL": "https://github.com/CDCgov/cancer-report-validator",
+      "laborHours": 0,
+      "languages": [
+        "Java",
+        "XSLT",
+        "Groovy",
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "name": "cancer-report-validator",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/cancer-report-validator.git",
+      "status": "Development",
+      "tags": [
+        "github",
+        "cancer",
+        "informatics",
+        "data-validation",
+        "hl7",
+        "cda",
+        "clinical-document-architecture",
+        "cancer-registry",
+        "cancer-reporting"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2019-10-07",
+        "lastModified": "2020-03-05"
+      },
+      "description": "This repository contains bioinformatics scripts and a Docker container to perform the in silico prediction of Legionella pneumophila serogroup from short read sequences using a supervised machine learning approach.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/legionella_pneumophila_genomics/downloads",
+      "homepageURL": "https://github.com/CDCgov/legionella_pneumophila_genomics",
+      "laborHours": 0,
+      "languages": [
+        "Shell",
+        "Python",
+        "R"
+      ],
+      "name": "legionella_pneumophila_genomics",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": null,
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/legionella_pneumophila_genomics.git",
+      "status": "Development",
+      "tags": [
+        "github",
+        "cdc",
+        "docker-container",
+        "legionella-pneumophila",
+        "prediction",
+        "usg-artificial-intelligence"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2019-08-26",
+        "lastModified": "2020-10-15"
+      },
+      "description": "React component for visualizing your data on a map of the United States based off work done for the CDC",
+      "downloadURL": "https://api.github.com/repos/CDCgov/CDC-Maps/downloads",
+      "homepageURL": "https://github.com/CDCgov/CDC-Maps",
+      "laborHours": 0,
+      "languages": [
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "name": "CDC-Maps",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/CDC-Maps.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2019-08-21",
+        "lastModified": "2019-08-30"
+      },
+      "description": "Demonstrations of deploying machine learning models in R, MLflow, and ECPaaS",
+      "downloadURL": "https://api.github.com/repos/CDCgov/SDP-MLaaS/downloads",
+      "homepageURL": "https://github.com/CDCgov/SDP-MLaaS",
+      "laborHours": 0,
+      "languages": [
+        "R",
+        "Python",
+        "Shell",
+        "Dockerfile"
+      ],
+      "name": "SDP-MLaaS",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": null,
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/SDP-MLaaS.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2019-07-29",
+        "lastModified": "2019-08-07"
+      },
+      "description": "A little web tool to help people join data tables (without writing code!)",
+      "downloadURL": "https://api.github.com/repos/CDCgov/TableMerger/downloads",
+      "homepageURL": "https://github.com/CDCgov/TableMerger",
+      "laborHours": 0,
+      "languages": [
+        "HTML",
+        "CSS"
+      ],
+      "name": "TableMerger",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/TableMerger.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2019-07-17",
+        "lastModified": "2020-03-25"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/CDCgov/Mia_publication/downloads",
+      "homepageURL": "https://github.com/CDCgov/Mia_publication",
+      "laborHours": 0,
+      "languages": [
+        "TSQL",
+        "R",
+        "Shell",
+        "Python"
+      ],
+      "name": "Mia_publication",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/Mia_publication.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2019-06-07",
+        "lastModified": "2019-06-07"
+      },
+      "description": "Project for HL7 Dev Days 2019 Redmond. Converts V2 PIDs to FHIR Patient Resources",
+      "downloadURL": "https://api.github.com/repos/CDCgov/pid2fhir/downloads",
+      "homepageURL": "https://github.com/CDCgov/pid2fhir",
+      "laborHours": 0,
+      "languages": [
+        "Kotlin"
+      ],
+      "name": "pid2fhir",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": null,
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/pid2fhir.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2019-05-24",
+        "lastModified": "2020-10-08"
+      },
+      "description": "Run Shiny. Make Gantt Charts.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/ShinyGanttCharts/downloads",
+      "homepageURL": "https://github.com/CDCgov/ShinyGanttCharts",
+      "laborHours": 0,
+      "languages": [
+        "R"
+      ],
+      "name": "ShinyGanttCharts",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/ShinyGanttCharts.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2019-04-23",
+        "lastModified": "2019-04-30"
+      },
+      "description": "A little web tool to help people translate CSVs to FASTA and vice-versa.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/CSV2FASTA/downloads",
+      "homepageURL": "https://github.com/CDCgov/CSV2FASTA",
+      "laborHours": 0,
+      "languages": [
+        "HTML",
+        "CSS"
+      ],
+      "name": "CSV2FASTA",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/CSV2FASTA.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2019-04-17",
+        "lastModified": "2020-07-27"
+      },
+      "description": "A client-side webapp to scrape data from the standard Epidemiological Interview Record",
+      "downloadURL": "https://api.github.com/repos/CDCgov/Ocra/downloads",
+      "homepageURL": "https://github.com/CDCgov/Ocra",
+      "laborHours": 0,
+      "languages": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "name": "Ocra",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/Ocra.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2019-03-19",
+        "lastModified": "2020-05-20"
+      },
+      "description": "GeneFlow: A Workflow Engine for Bioinformatics and Public Health Analytics",
+      "downloadURL": "https://api.github.com/repos/CDCgov/geneflow/downloads",
+      "homepageURL": "https://github.com/CDCgov/geneflow",
+      "laborHours": 0,
+      "languages": [
+        "Python",
+        "Shell",
+        "Gherkin",
+        "TSQL",
+        "Dockerfile"
+      ],
+      "name": "geneflow",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/geneflow.git",
+      "status": "Development",
+      "tags": [
+        "github",
+        "bioinformatics",
+        "python",
+        "workflow"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2019-03-18",
+        "lastModified": "2019-05-15"
+      },
+      "description": "A little R package to Launch MicrobeTrace in a Shiny Server",
+      "downloadURL": "https://api.github.com/repos/CDCgov/MicrobeTraceShiny/downloads",
+      "homepageURL": "https://github.com/CDCgov/MicrobeTraceShiny",
+      "laborHours": 0,
+      "languages": [
+        "R"
+      ],
+      "name": "MicrobeTraceShiny",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/MicrobeTraceShiny.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2019-03-07",
+        "lastModified": "2019-03-08"
+      },
+      "description": "Ruby Source-to-Image builder tailored to the needs of the SDP Vocabulary project.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/s2i-ruby-vocab-builder/downloads",
+      "homepageURL": "https://github.com/CDCgov/s2i-ruby-vocab-builder",
+      "laborHours": 0,
+      "languages": [
+        "Shell",
+        "Roff",
+        "Dockerfile",
+        "Makefile",
+        "Ruby"
+      ],
+      "name": "s2i-ruby-vocab-builder",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/s2i-ruby-vocab-builder.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2019-02-11",
+        "lastModified": "2019-02-11"
+      },
+      "description": "A Simple Demonstration of Organizing Bubbles using D3v5",
+      "downloadURL": "https://api.github.com/repos/CDCgov/Bubbles/downloads",
+      "homepageURL": "https://github.com/CDCgov/Bubbles",
+      "laborHours": 0,
+      "languages": [
+        "HTML",
+        "CSS",
+        "R"
+      ],
+      "name": "Bubbles",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "name": "NOASSERTION"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/Bubbles.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2019-01-14",
+        "lastModified": "2020-10-13"
+      },
+      "description": "Uncompromisingly Flexible Phylogenetic Trees in Javascript",
+      "downloadURL": "https://api.github.com/repos/CDCgov/TidyTree/downloads",
+      "homepageURL": "https://github.com/CDCgov/TidyTree",
+      "laborHours": 0,
+      "languages": [
+        "JavaScript",
+        "HTML"
+      ],
+      "name": "TidyTree",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/TidyTree.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2019-01-03",
+        "lastModified": "2019-08-05"
+      },
+      "description": "Spawn Normally-Distributed Mutant DNA Sequences",
+      "downloadURL": "https://api.github.com/repos/CDCgov/SeqSpawnR/downloads",
+      "homepageURL": "https://github.com/CDCgov/SeqSpawnR",
+      "laborHours": 0,
+      "languages": [
+        "R"
+      ],
+      "name": "SeqSpawnR",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/SeqSpawnR.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-12-14",
+        "lastModified": "2020-09-15"
+      },
+      "description": "A little library to work with Javascript File objects",
+      "downloadURL": "https://api.github.com/repos/CDCgov/fileto/downloads",
+      "homepageURL": "https://github.com/CDCgov/fileto",
+      "laborHours": 0,
+      "languages": [
+        "JavaScript"
+      ],
+      "name": "fileto",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/fileto.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-12-07",
+        "lastModified": "2020-03-10"
+      },
+      "description": "A stubbing service for testing against the various endpoints of the FDNS Microservices without running the full microservices in the background.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-stubbing/downloads",
+      "homepageURL": "https://github.com/CDCgov/fdns-ms-stubbing",
+      "laborHours": 0,
+      "languages": [
+        "JavaScript",
+        "Makefile",
+        "Dockerfile"
+      ],
+      "name": "fdns-ms-stubbing",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/fdns-ms-stubbing.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-12-04",
+        "lastModified": "2020-09-15"
+      },
+      "description": "A Phylogenetics toolkit for Javascript",
+      "downloadURL": "https://api.github.com/repos/CDCgov/patristic/downloads",
+      "homepageURL": "https://github.com/CDCgov/patristic",
+      "laborHours": 0,
+      "languages": [
+        "HTML",
+        "JavaScript",
+        "CSS",
+        "TeX"
+      ],
+      "name": "patristic",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/patristic.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-10-31",
+        "lastModified": "2020-03-06"
+      },
+      "description": "Example UI for an HL7 Combiner Tool",
+      "downloadURL": "https://api.github.com/repos/CDCgov/ex-ui-hl7-combiner/downloads",
+      "homepageURL": "https://github.com/CDCgov/ex-ui-hl7-combiner",
+      "laborHours": 0,
+      "languages": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Dockerfile",
+        "Makefile",
+        "Shell"
+      ],
+      "name": "ex-ui-hl7-combiner",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/ex-ui-hl7-combiner.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-09-21",
+        "lastModified": "2020-10-31"
+      },
+      "description": "The Visualization Multitool for Molecular Epidemiology and Bioinformatics",
+      "downloadURL": "https://api.github.com/repos/CDCgov/MicrobeTrace/downloads",
+      "homepageURL": "https://github.com/CDCgov/MicrobeTrace",
+      "laborHours": 0,
+      "languages": [
+        "HTML",
+        "JavaScript",
+        "CSS",
+        "Shell",
+        "Dockerfile"
+      ],
+      "name": "MicrobeTrace",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/MicrobeTrace.git",
+      "status": "Development",
+      "tags": [
+        "github",
+        "bioinformatics",
+        "epidemiology",
+        "network-visualization",
+        "hiv",
+        "cdc",
+        "pathogens",
+        "phylogenetics",
+        "phylogenetic-trees",
+        "phylogeny",
+        "phylogenomics",
+        "genomics",
+        "genomics-visualization",
+        "genomic-data-analysis",
+        "sequence-alignment"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-09-06",
+        "lastModified": "2020-03-04"
+      },
+      "description": "This is the repository with the Java Library for Foundation Services Kafka workers.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/fdns-kafka-library/downloads",
+      "homepageURL": "https://github.com/CDCgov/fdns-kafka-library",
+      "laborHours": 0,
+      "languages": [
+        "Java"
+      ],
+      "name": "fdns-kafka-library",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/fdns-kafka-library.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-08-09",
+        "lastModified": "2020-03-04"
+      },
+      "description": "This is the repository for the cryptography microservice.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-crypto/downloads",
+      "homepageURL": "https://github.com/CDCgov/fdns-ms-crypto",
+      "laborHours": 0,
+      "languages": [],
+      "name": "fdns-ms-crypto",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": null,
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/fdns-ms-crypto.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-08-09",
+        "lastModified": "2020-03-05"
+      },
+      "description": "This is the repository that contains the Kafka workers to handle the generation of reports.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-reporting-kafka/downloads",
+      "homepageURL": "https://github.com/CDCgov/fdns-ms-reporting-kafka",
+      "laborHours": 0,
+      "languages": [
+        "Java",
+        "Makefile",
+        "Dockerfile",
+        "Shell"
+      ],
+      "name": "fdns-ms-reporting-kafka",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/fdns-ms-reporting-kafka.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-08-09",
+        "lastModified": "2020-03-05"
+      },
+      "description": "This is the repository for the reporting microservice.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-reporting/downloads",
+      "homepageURL": "https://github.com/CDCgov/fdns-ms-reporting",
+      "laborHours": 0,
+      "languages": [
+        "Java",
+        "HTML",
+        "Makefile",
+        "Dockerfile"
+      ],
+      "name": "fdns-ms-reporting",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/fdns-ms-reporting.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-08-09",
+        "lastModified": "2020-03-10"
+      },
+      "description": "This is the repository with the Microsoft Utilities microservice for parsing Microsoft formatted documents.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-msft-utils/downloads",
+      "homepageURL": "https://github.com/CDCgov/fdns-ms-msft-utils",
+      "laborHours": 0,
+      "languages": [
+        "Java",
+        "HTML",
+        "Dockerfile",
+        "Makefile"
+      ],
+      "name": "fdns-ms-msft-utils",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/fdns-ms-msft-utils.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-04-06",
+        "lastModified": "2018-08-23"
+      },
+      "description": "This is the repository extending the Springfox Swagger UI package to meet CDC browser requirements.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/springfox-swagger-ui/downloads",
+      "homepageURL": "https://github.com/CDCgov/springfox-swagger-ui",
+      "laborHours": 0,
+      "languages": [
+        "HTML",
+        "JavaScript",
+        "CSS"
+      ],
+      "name": "springfox-swagger-ui",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/springfox-swagger-ui.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-04-03",
+        "lastModified": "2020-08-29"
+      },
+      "description": "This is the repository with the Business Rules Engine for ingesting and validating JSON files.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-rules/downloads",
+      "homepageURL": "https://github.com/CDCgov/fdns-ms-rules",
+      "laborHours": 0,
+      "languages": [
+        "Java",
+        "HTML",
+        "Dockerfile",
+        "Makefile"
+      ],
+      "name": "fdns-ms-rules",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/fdns-ms-rules.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-04-03",
+        "lastModified": "2020-03-10"
+      },
+      "description": "This is the repository with the Combiner service to combine JSON files into a single CSV or XLSX file.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-combiner/downloads",
+      "homepageURL": "https://github.com/CDCgov/fdns-ms-combiner",
+      "laborHours": 0,
+      "languages": [
+        "Java",
+        "HTML",
+        "Dockerfile",
+        "Makefile",
+        "Shell"
+      ],
+      "name": "fdns-ms-combiner",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/fdns-ms-combiner.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-04-03",
+        "lastModified": "2020-03-04"
+      },
+      "description": "This is the repository with the CDA utilities service to parse, validate and generate sample CDA data.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-cda-utils/downloads",
+      "homepageURL": "https://github.com/CDCgov/fdns-ms-cda-utils",
+      "laborHours": 0,
+      "languages": [
+        "FreeMarker",
+        "Java",
+        "HTML",
+        "Dockerfile",
+        "Makefile"
+      ],
+      "name": "fdns-ms-cda-utils",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/fdns-ms-cda-utils.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-04-03",
+        "lastModified": "2020-06-26"
+      },
+      "description": "This is the repository with the HL7 utilities service to parse, validate and generate sample HL7 data.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-hl7-utils/downloads",
+      "homepageURL": "https://github.com/CDCgov/fdns-ms-hl7-utils",
+      "laborHours": 0,
+      "languages": [
+        "Java",
+        "HTML",
+        "FreeMarker",
+        "Dockerfile",
+        "Makefile"
+      ],
+      "name": "fdns-ms-hl7-utils",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/fdns-ms-hl7-utils.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-04-03",
+        "lastModified": "2020-08-29"
+      },
+      "description": "This is the repository with the Indexing layer for the Data Lake. This is the navigation layer.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-indexing/downloads",
+      "homepageURL": "https://github.com/CDCgov/fdns-ms-indexing",
+      "laborHours": 0,
+      "languages": [
+        "Java",
+        "HTML",
+        "Dockerfile",
+        "Makefile"
+      ],
+      "name": "fdns-ms-indexing",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/fdns-ms-indexing.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-04-03",
+        "lastModified": "2020-08-29"
+      },
+      "description": "This is the repository with the Object layer for the Data Lake. This is the mutable layer.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-object/downloads",
+      "homepageURL": "https://github.com/CDCgov/fdns-ms-object",
+      "laborHours": 0,
+      "languages": [
+        "Java",
+        "HTML",
+        "Dockerfile",
+        "Makefile"
+      ],
+      "name": "fdns-ms-object",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/fdns-ms-object.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-04-03",
+        "lastModified": "2020-08-29"
+      },
+      "description": "This is the repository with the Storage layer for the Data Lake. This is the immutable layer.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-storage/downloads",
+      "homepageURL": "https://github.com/CDCgov/fdns-ms-storage",
+      "laborHours": 0,
+      "languages": [
+        "Java",
+        "HTML",
+        "Dockerfile",
+        "Makefile"
+      ],
+      "name": "fdns-ms-storage",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/fdns-ms-storage.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-04-03",
+        "lastModified": "2020-03-06"
+      },
+      "description": "This is the repository with the API gateway to connect the other microservices together.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ms-gateway/downloads",
+      "homepageURL": "https://github.com/CDCgov/fdns-ms-gateway",
+      "laborHours": 0,
+      "languages": [
+        "HTML",
+        "Java",
+        "Dockerfile",
+        "Shell",
+        "Makefile"
+      ],
+      "name": "fdns-ms-gateway",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/fdns-ms-gateway.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-04-03",
+        "lastModified": "2020-03-10"
+      },
+      "description": "This the repository with the Java Library for the Business Rules Engine.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/fdns-rules-engine/downloads",
+      "homepageURL": "https://github.com/CDCgov/fdns-rules-engine",
+      "laborHours": 0,
+      "languages": [
+        "Java"
+      ],
+      "name": "fdns-rules-engine",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/fdns-rules-engine.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-04-03",
+        "lastModified": "2020-09-09"
+      },
+      "description": "This is the repository with the Java SDK for Foundation Services.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/fdns-java-sdk/downloads",
+      "homepageURL": "https://github.com/CDCgov/fdns-java-sdk",
+      "laborHours": 0,
+      "languages": [
+        "Java",
+        "Makefile"
+      ],
+      "name": "fdns-java-sdk",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/fdns-java-sdk.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-04-03",
+        "lastModified": "2020-03-05"
+      },
+      "description": "This is the repository with the JavaScript SDK for Foundation Services.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/fdns-js-sdk/downloads",
+      "homepageURL": "https://github.com/CDCgov/fdns-js-sdk",
+      "laborHours": 0,
+      "languages": [
+        "JavaScript"
+      ],
+      "name": "fdns-js-sdk",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/fdns-js-sdk.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-04-03",
+        "lastModified": "2020-09-11"
+      },
+      "description": "A collection of reusable React components for quickly building modern and accessible web applications.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ui-react/downloads",
+      "homepageURL": "https://github.com/CDCgov/fdns-ui-react",
+      "laborHours": 0,
+      "languages": [
+        "JavaScript",
+        "SCSS",
+        "HTML"
+      ],
+      "name": "fdns-ui-react",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/fdns-ui-react.git",
+      "status": "Development",
+      "tags": [
+        "github",
+        "fdns",
+        "react",
+        "ui-library"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-03-19",
+        "lastModified": "2019-05-15"
+      },
+      "description": "Pick a county, see its neighbors",
+      "downloadURL": "https://api.github.com/repos/CDCgov/Proximate/downloads",
+      "homepageURL": "https://github.com/CDCgov/Proximate",
+      "laborHours": 0,
+      "languages": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "name": "Proximate",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": null,
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/Proximate.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-02-07",
+        "lastModified": "2020-09-15"
+      },
+      "description": "Tamura-Nei '93 Computation in Javascript",
+      "downloadURL": "https://api.github.com/repos/CDCgov/tn93.js/downloads",
+      "homepageURL": "https://github.com/CDCgov/tn93.js",
+      "laborHours": 0,
+      "languages": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "name": "tn93.js",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/tn93.js.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2018-02-07",
+        "lastModified": "2020-10-15"
+      },
+      "description": "A lightweight visualization for genetic sequence alignments",
+      "downloadURL": "https://api.github.com/repos/CDCgov/AlignmentViewer/downloads",
+      "homepageURL": "https://github.com/CDCgov/AlignmentViewer",
+      "laborHours": 0,
+      "languages": [
+        "JavaScript",
+        "HTML"
+      ],
+      "name": "AlignmentViewer",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/AlignmentViewer.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2017-12-25",
+        "lastModified": "2020-10-15"
+      },
+      "description": "An application to assist Utah CDC's Newborn Screening Program",
+      "downloadURL": "https://api.github.com/repos/CDCgov/artemis/downloads",
+      "homepageURL": "https://github.com/CDCgov/artemis",
+      "laborHours": 0,
+      "languages": [
+        "Ruby",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Dockerfile"
+      ],
+      "name": "artemis",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "name": "NOASSERTION"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/artemis.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2017-12-06",
+        "lastModified": "2020-07-07"
+      },
+      "description": "See Readme",
+      "downloadURL": "https://api.github.com/repos/CDCgov/MaRS/downloads",
+      "homepageURL": "https://github.com/CDCgov/MaRS",
+      "laborHours": 0,
+      "languages": [],
+      "name": "MaRS",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": null,
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/MaRS.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2017-06-21",
+        "lastModified": "2020-10-07"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/CDCgov/openshift-fluentd-forwarder/downloads",
+      "homepageURL": "https://github.com/CDCgov/openshift-fluentd-forwarder",
+      "laborHours": 0,
+      "languages": [
+        "Shell",
+        "Dockerfile"
+      ],
+      "name": "openshift-fluentd-forwarder",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/openshift-fluentd-forwarder.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2017-05-30",
+        "lastModified": "2017-06-15"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/CDCgov/SDP-CBR-Broker/downloads",
+      "homepageURL": "https://github.com/CDCgov/SDP-CBR-Broker",
+      "laborHours": 0,
+      "languages": [
+        "HTML",
+        "Ruby"
+      ],
+      "name": "SDP-CBR-Broker",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/SDP-CBR-Broker.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2017-04-10",
+        "lastModified": "2019-05-09"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/CDCgov/SDP-CBR/downloads",
+      "homepageURL": "https://github.com/CDCgov/SDP-CBR",
+      "laborHours": 0,
+      "languages": [
+        "Java",
+        "ANTLR",
+        "Shell",
+        "Ruby"
+      ],
+      "name": "SDP-CBR",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/SDP-CBR.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2017-04-10",
+        "lastModified": "2019-12-13"
+      },
+      "description": "Natural Language processing for Pathology reports on cancer histology, laterality, side, and behavior.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/NLPWorkbench/downloads",
+      "homepageURL": "https://github.com/CDCgov/NLPWorkbench",
+      "laborHours": 0,
+      "languages": [
+        "HTML",
+        "Java",
+        "Python",
+        "PLpgSQL",
+        "JavaScript",
+        "Mako",
+        "CSS",
+        "C++",
+        "Shell",
+        "Perl",
+        "Roff",
+        "PowerShell",
+        "C#",
+        "Pascal",
+        "C",
+        "Makefile",
+        "Batchfile",
+        "Groovy",
+        "Puppet",
+        "TeX",
+        "Smarty",
+        "PLSQL",
+        "XSLT",
+        "SQLPL",
+        "Bluespec",
+        "Dockerfile",
+        "Ruby",
+        "Jupyter Notebook",
+        "ASP"
+      ],
+      "name": "NLPWorkbench",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/NLPWorkbench.git",
+      "status": "Development",
+      "tags": [
+        "github",
+        "usg-artificial-intelligence",
+        "usg-natural-language-processing"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2016-09-19",
+        "lastModified": "2020-10-31"
+      },
+      "description": "Repository for the SDP Vocabulary Service.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/SDP-Vocabulary-Service/downloads",
+      "homepageURL": "https://github.com/CDCgov/SDP-Vocabulary-Service",
+      "laborHours": 0,
+      "languages": [
+        "JavaScript",
+        "Ruby",
+        "CSS",
+        "Gherkin",
+        "HTML",
+        "Shell"
+      ],
+      "name": "SDP-Vocabulary-Service",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/SDP-Vocabulary-Service.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2016-05-20",
+        "lastModified": "2020-05-22"
+      },
+      "description": "PoSE: (Pattern of Sequence Evolution) provides visualization and annotation of amino acid substitutions to help determine major patterns during sequence evolution of protein-coding sequences, hypervariable regions, or changes in dN/dS ratios. ",
+      "downloadURL": "https://api.github.com/repos/CDCgov/PoSE/downloads",
+      "homepageURL": "https://github.com/CDCgov/PoSE",
+      "laborHours": 0,
+      "languages": [],
+      "name": "PoSE",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/PoSE.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
     }
   ]
 }
