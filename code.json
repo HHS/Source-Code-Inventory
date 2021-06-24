@@ -8295,6 +8295,38 @@
         "email": "cdcinfo@cdc.gov"
       },
       "date": {
+        "created": "2020-10-01",
+        "lastModified": "2021-04-30"
+      },
+      "description": "A deep learning project predicting MIS-A among COVID-19 patients using EHR data. ",
+      "downloadURL": "https://api.github.com/repos/cdcai/premier_analysis/downloads",
+      "homepageURL": "https://github.com/cdcai/premier_analysis",
+      "laborHours": 0,
+      "languages": [
+        "Jupyter Notebook",
+        "Python",
+        "Shell",
+        "R"
+      ],
+      "name": "premier_analysis",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": null,
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/cdcai/premier_analysis.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/cdcai",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
         "created": "2019-12-17",
         "lastModified": "2020-03-16"
       },
@@ -8333,7 +8365,7 @@
       },
       "date": {
         "created": "2019-10-16",
-        "lastModified": "2020-03-16"
+        "lastModified": "2020-12-16"
       },
       "description": "Random examples of Tensorflow in R",
       "downloadURL": "https://api.github.com/repos/cdcai/R-tensorflow-projects/downloads",
@@ -8358,44 +8390,6 @@
       "tags": [
         "github",
         "usg-artificial-intelligence"
-      ],
-      "vcs": "git"
-    },
-    {
-      "contact": {
-        "URL": "https://github.com/cdcai",
-        "email": "cdcinfo@cdc.gov"
-      },
-      "date": {
-        "created": "2019-10-10",
-        "lastModified": "2020-03-16"
-      },
-      "description": "Train model to identify water cooling towers from high-resolution aerial imagery ",
-      "downloadURL": "https://api.github.com/repos/cdcai/coolit.train/downloads",
-      "homepageURL": "https://github.com/cdcai/coolit.train",
-      "laborHours": 0,
-      "languages": [
-        "R"
-      ],
-      "name": "coolit.train",
-      "organization": "Centers for Disease Control and Prevention",
-      "permissions": {
-        "licenses": [
-          {
-            "name": "NOASSERTION"
-          }
-        ],
-        "usageType": "openSource"
-      },
-      "repositoryURL": "git://github.com/cdcai/coolit.train.git",
-      "status": "Development",
-      "tags": [
-        "github",
-        "usg-artificial-intelligence",
-        "object-detection",
-        "r",
-        "gis",
-        "legionella"
       ],
       "vcs": "git"
     },
@@ -8647,7 +8641,7 @@
       },
       "date": {
         "created": "2017-11-30",
-        "lastModified": "2020-04-29"
+        "lastModified": "2021-01-24"
       },
       "description": "Epi Info™ Companion for Android",
       "downloadURL": "https://api.github.com/repos/Epi-Info/Epi-Info-Android/downloads",
@@ -8682,7 +8676,7 @@
       },
       "date": {
         "created": "2017-11-20",
-        "lastModified": "2020-10-28"
+        "lastModified": "2021-04-22"
       },
       "description": "No description available...",
       "downloadURL": "https://api.github.com/repos/Epi-Info/Epi-Info-Web-Survey/downloads",
@@ -8716,7 +8710,7 @@
       },
       "date": {
         "created": "2017-09-14",
-        "lastModified": "2020-10-28"
+        "lastModified": "2021-05-08"
       },
       "description": "No description available...",
       "downloadURL": "https://api.github.com/repos/Epi-Info/Epi-Info-Community-Edition/downloads",
@@ -8757,7 +8751,7 @@
       },
       "date": {
         "created": "2017-08-21",
-        "lastModified": "2020-09-02"
+        "lastModified": "2021-04-13"
       },
       "description": "No description available...",
       "downloadURL": "https://api.github.com/repos/Epi-Info/Epi-Info-Cloud-Data-Capture/downloads",
@@ -8769,7 +8763,7 @@
         "CSS",
         "HTML",
         "TSQL",
-        "ASP"
+        "ASP.NET"
       ],
       "name": "Epi-Info-Cloud-Data-Capture",
       "organization": "Centers for Disease Control and Prevention",
@@ -8837,7 +8831,7 @@
       },
       "date": {
         "created": "2016-01-22",
-        "lastModified": "2020-09-24"
+        "lastModified": "2021-04-21"
       },
       "description": "Epi Info™ Companion for iOS",
       "downloadURL": "https://api.github.com/repos/Epi-Info/Epi-Info-iOS/downloads",
@@ -8874,8 +8868,812 @@
         "email": "cdcinfo@cdc.gov"
       },
       "date": {
+        "created": "2021-04-07",
+        "lastModified": "2021-04-15"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/CDCgov/MicrobeTraceNext/downloads",
+      "homepageURL": "https://github.com/CDCgov/MicrobeTraceNext",
+      "laborHours": 0,
+      "languages": [
+        "TypeScript",
+        "HTML",
+        "JavaScript",
+        "C#",
+        "CSS",
+        "Less",
+        "PowerShell",
+        "SCSS",
+        "Dockerfile"
+      ],
+      "name": "MicrobeTraceNext",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/MicrobeTraceNext.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2021-04-02",
+        "lastModified": "2021-04-19"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/CDCgov/prime-devops/downloads",
+      "homepageURL": "https://github.com/CDCgov/prime-devops",
+      "laborHours": 0,
+      "languages": [],
+      "name": "prime-devops",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/prime-devops.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2021-04-01",
+        "lastModified": "2021-04-16"
+      },
+      "description": "Data for the SPHERES Auspice site",
+      "downloadURL": "https://api.github.com/repos/CDCgov/spheres-auspice-data/downloads",
+      "homepageURL": "https://github.com/CDCgov/spheres-auspice-data",
+      "laborHours": 0,
+      "languages": [],
+      "name": "spheres-auspice-data",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/spheres-auspice-data.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2021-03-24",
+        "lastModified": "2021-04-02"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/CDCgov/excessdeathsCOVID19/downloads",
+      "homepageURL": "https://github.com/CDCgov/excessdeathsCOVID19",
+      "laborHours": 0,
+      "languages": [
+        "R"
+      ],
+      "name": "excessdeathsCOVID19",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/excessdeathsCOVID19.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2021-03-18",
+        "lastModified": "2021-03-18"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/CDCgov/COVIDReportR_AShinyApp/downloads",
+      "homepageURL": "https://github.com/CDCgov/COVIDReportR_AShinyApp",
+      "laborHours": 0,
+      "languages": [],
+      "name": "COVIDReportR_AShinyApp",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/COVIDReportR_AShinyApp.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2021-02-24",
+        "lastModified": "2021-05-14"
+      },
+      "description": "This workflow calls variants for MycoSNP using GATK.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/mycosnp-gatk-variants/downloads",
+      "homepageURL": "https://github.com/CDCgov/mycosnp-gatk-variants",
+      "laborHours": 0,
+      "languages": [],
+      "name": "mycosnp-gatk-variants",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/mycosnp-gatk-variants.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2021-02-24",
+        "lastModified": "2021-05-14"
+      },
+      "description": "This workflow prepares and aligns samples using BWA for variant calling using the MycoSNP GATK workflow.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/mycosnp-bwa-pre-process/downloads",
+      "homepageURL": "https://github.com/CDCgov/mycosnp-bwa-pre-process",
+      "laborHours": 0,
+      "languages": [],
+      "name": "mycosnp-bwa-pre-process",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/mycosnp-bwa-pre-process.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2021-02-24",
+        "lastModified": "2021-05-11"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/CDCgov/mycosnp/downloads",
+      "homepageURL": "https://github.com/CDCgov/mycosnp",
+      "laborHours": 0,
+      "languages": [],
+      "name": "mycosnp",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/mycosnp.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2021-02-22",
+        "lastModified": "2021-05-14"
+      },
+      "description": "This workflow prepares a reference index using BWA as part of the MycoSNP suite of workflows.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/mycosnp-bwa-reference/downloads",
+      "homepageURL": "https://github.com/CDCgov/mycosnp-bwa-reference",
+      "laborHours": 0,
+      "languages": [],
+      "name": "mycosnp-bwa-reference",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/mycosnp-bwa-reference.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2021-02-22",
+        "lastModified": "2021-02-24"
+      },
+      "description": "Standalone Hantavirus visualization engine, based on MicrobeTrace",
+      "downloadURL": "https://api.github.com/repos/CDCgov/HantaNet/downloads",
+      "homepageURL": "https://github.com/CDCgov/HantaNet",
+      "laborHours": 0,
+      "languages": [],
+      "name": "HantaNet",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/HantaNet.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2021-02-11",
+        "lastModified": "2021-04-24"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/CDCgov/prime-field-teams/downloads",
+      "homepageURL": "https://github.com/CDCgov/prime-field-teams",
+      "laborHours": 0,
+      "languages": [
+        "Rich Text Format",
+        "JavaScript"
+      ],
+      "name": "prime-field-teams",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/prime-field-teams.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2021-01-25",
+        "lastModified": "2021-04-08"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/CDCgov/legionella_pneumophila_SBT_analysis/downloads",
+      "homepageURL": "https://github.com/CDCgov/legionella_pneumophila_SBT_analysis",
+      "laborHours": 0,
+      "languages": [
+        "Shell",
+        "Dockerfile"
+      ],
+      "name": "legionella_pneumophila_SBT_analysis",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/legionella_pneumophila_SBT_analysis.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-12-15",
+        "lastModified": "2021-03-17"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/CDCgov/EPHTracking/downloads",
+      "homepageURL": "https://github.com/CDCgov/EPHTracking",
+      "laborHours": 0,
+      "languages": [
+        "SAS",
+        "R"
+      ],
+      "name": "EPHTracking",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/EPHTracking.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-12-14",
+        "lastModified": "2021-05-13"
+      },
+      "description": "CDC OpenViz is a library of React packages for data visualization.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/cdc-open-viz/downloads",
+      "homepageURL": "https://github.com/CDCgov/cdc-open-viz",
+      "laborHours": 0,
+      "languages": [
+        "JavaScript",
+        "SCSS",
+        "TypeScript",
+        "HTML"
+      ],
+      "name": "cdc-open-viz",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": null,
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/cdc-open-viz.git",
+      "status": "Development",
+      "tags": [
+        "github",
+        "react",
+        "data",
+        "visualization",
+        "visualization-library"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-12-10",
+        "lastModified": "2020-12-21"
+      },
+      "description": "HIE Automation testing framework - OpenMRS, OpenHIM, OpenSHR, HAPI-FHIR, OpenEMPI",
+      "downloadURL": "https://api.github.com/repos/CDCgov/hie-automation-tests/downloads",
+      "homepageURL": "https://github.com/CDCgov/hie-automation-tests",
+      "laborHours": 0,
+      "languages": [
+        "Python",
+        "Gherkin"
+      ],
+      "name": "hie-automation-tests",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/hie-automation-tests.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-11-17",
+        "lastModified": "2021-05-13"
+      },
+      "description": "Landing / marketing site for the SimpleReport application",
+      "downloadURL": "https://api.github.com/repos/CDCgov/prime-simplereport-site/downloads",
+      "homepageURL": "https://github.com/CDCgov/prime-simplereport-site",
+      "laborHours": 0,
+      "languages": [
+        "JavaScript",
+        "HTML",
+        "SCSS",
+        "Ruby",
+        "Shell"
+      ],
+      "name": "prime-simplereport-site",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/cc0-1.0",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/prime-simplereport-site.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-10-29",
+        "lastModified": "2021-01-29"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/CDCgov/CDC_IIS_Open_Tools/downloads",
+      "homepageURL": "https://github.com/CDCgov/CDC_IIS_Open_Tools",
+      "laborHours": 0,
+      "languages": [
+        "Java",
+        "Batchfile"
+      ],
+      "name": "CDC_IIS_Open_Tools",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/CDC_IIS_Open_Tools.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-10-15",
+        "lastModified": "2021-05-17"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/CDCgov/prime-data-hub/downloads",
+      "homepageURL": "https://github.com/CDCgov/prime-data-hub",
+      "laborHours": 0,
+      "languages": [
+        "Kotlin",
+        "HTML",
+        "HCL",
+        "Shell",
+        "CSS",
+        "Liquid",
+        "JavaScript",
+        "PLpgSQL",
+        "Python",
+        "Dockerfile"
+      ],
+      "name": "prime-data-hub",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/prime-data-hub.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-10-14",
+        "lastModified": "2020-10-14"
+      },
+      "description": "NeST NextFlow ",
+      "downloadURL": "https://api.github.com/repos/CDCgov/NeST-nf/downloads",
+      "homepageURL": "https://github.com/CDCgov/NeST-nf",
+      "laborHours": 0,
+      "languages": [],
+      "name": "NeST-nf",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/NeST-nf.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-10-08",
+        "lastModified": "2021-05-17"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/CDCgov/prime-simplereport/downloads",
+      "homepageURL": "https://github.com/CDCgov/prime-simplereport",
+      "laborHours": 0,
+      "languages": [
+        "Java",
+        "TypeScript",
+        "HCL",
+        "SCSS",
+        "JavaScript",
+        "Shell",
+        "HTML",
+        "Makefile",
+        "PLpgSQL",
+        "Dockerfile",
+        "CSS"
+      ],
+      "name": "prime-simplereport",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/cc0-1.0",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/prime-simplereport.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-10-07",
+        "lastModified": "2021-01-03"
+      },
+      "description": "No description available...",
+      "downloadURL": "https://api.github.com/repos/CDCgov/prime-data-input-api/downloads",
+      "homepageURL": "https://github.com/CDCgov/prime-data-input-api",
+      "laborHours": 0,
+      "languages": [
+        "JavaScript"
+      ],
+      "name": "prime-data-input-api",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": null,
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/prime-data-input-api.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-09-25",
+        "lastModified": "2021-04-29"
+      },
+      "description": "Generation of figure by routine reporting for the case surveillance section used for IM slide 1 during summer of 2020 for COVID19 response",
+      "downloadURL": "https://api.github.com/repos/CDCgov/IMslide_1/downloads",
+      "homepageURL": "https://github.com/CDCgov/IMslide_1",
+      "laborHours": 0,
+      "languages": [
+        "R"
+      ],
+      "name": "IMslide_1",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/IMslide_1.git",
+      "status": "Development",
+      "tags": [
+        "github"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
+        "created": "2020-09-17",
+        "lastModified": "2021-05-10"
+      },
+      "description": "Privacy review and statistical disclosure control methods for covid public case data.",
+      "downloadURL": "https://api.github.com/repos/CDCgov/covid_case_privacy_review/downloads",
+      "homepageURL": "https://github.com/CDCgov/covid_case_privacy_review",
+      "laborHours": 0,
+      "languages": [
+        "R"
+      ],
+      "name": "covid_case_privacy_review",
+      "organization": "Centers for Disease Control and Prevention",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "https://api.github.com/licenses/apache-2.0",
+            "name": "Apache-2.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "repositoryURL": "git://github.com/CDCgov/covid_case_privacy_review.git",
+      "status": "Development",
+      "tags": [
+        "github",
+        "covid-19",
+        "covid",
+        "r",
+        "privacy",
+        "sdc",
+        "srrg",
+        "coronavirus"
+      ],
+      "vcs": "git"
+    },
+    {
+      "contact": {
+        "URL": "https://github.com/CDCgov",
+        "email": "cdcinfo@cdc.gov"
+      },
+      "date": {
         "created": "2020-09-15",
-        "lastModified": "2020-10-28"
+        "lastModified": "2021-05-07"
       },
       "description": "This repository analyzes viral genomes using Nextstrain to understand how SARS-CoV-2, the virus that is responsible for the COVID-19 pandemic, evolves and spreads. This is a copy of the original Nextstrain ncov repository, which will (by default) build augur all 50 states + DC + PR using the same parameters and subsampling strategy.",
       "downloadURL": "https://api.github.com/repos/CDCgov/spheres-augur-build/downloads",
@@ -8899,7 +9697,10 @@
       "repositoryURL": "git://github.com/CDCgov/spheres-augur-build.git",
       "status": "Development",
       "tags": [
-        "github"
+        "github",
+        "nextstrain-ncov",
+        "spheres",
+        "workflow"
       ],
       "vcs": "git"
     },
@@ -8910,7 +9711,7 @@
       },
       "date": {
         "created": "2020-09-14",
-        "lastModified": "2020-10-27"
+        "lastModified": "2020-12-24"
       },
       "description": "Starter kit for use in creating new React projects",
       "downloadURL": "https://api.github.com/repos/CDCgov/react-starter-kit/downloads",
@@ -8919,6 +9720,7 @@
       "languages": [
         "JavaScript",
         "SCSS",
+        "TypeScript",
         "HTML"
       ],
       "name": "react-starter-kit",
@@ -8978,7 +9780,7 @@
       },
       "date": {
         "created": "2020-08-13",
-        "lastModified": "2020-08-14"
+        "lastModified": "2020-11-23"
       },
       "description": "A Radical Alternative to Conventional Phylogenetic Tree Renderers",
       "downloadURL": "https://api.github.com/repos/CDCgov/PhysicsTree/downloads",
@@ -9012,17 +9814,17 @@
       },
       "date": {
         "created": "2020-08-12",
-        "lastModified": "2020-08-12"
+        "lastModified": "2021-03-03"
       },
       "description": "A simple, all-client-side web app to transform Adjacency lists into Edge Lists",
-      "downloadURL": "https://api.github.com/repos/CDCgov/LongAdjacency/downloads",
-      "homepageURL": "https://github.com/CDCgov/LongAdjacency",
+      "downloadURL": "https://api.github.com/repos/CDCgov/pivotable/downloads",
+      "homepageURL": "https://github.com/CDCgov/pivotable",
       "laborHours": 0,
       "languages": [
         "HTML",
         "JavaScript"
       ],
-      "name": "LongAdjacency",
+      "name": "pivotable",
       "organization": "Centers for Disease Control and Prevention",
       "permissions": {
         "licenses": [
@@ -9033,7 +9835,7 @@
         ],
         "usageType": "openSource"
       },
-      "repositoryURL": "git://github.com/CDCgov/LongAdjacency.git",
+      "repositoryURL": "git://github.com/CDCgov/pivotable.git",
       "status": "Development",
       "tags": [
         "github"
@@ -9047,7 +9849,7 @@
       },
       "date": {
         "created": "2020-07-15",
-        "lastModified": "2020-10-31"
+        "lastModified": "2021-05-17"
       },
       "description": "Contains functions for pulling publicly-available global COVID-19 case and testing data for analysis and populating a Power BI dashboard.",
       "downloadURL": "https://api.github.com/repos/CDCgov/ITF_Power_BI/downloads",
@@ -9118,7 +9920,7 @@
       },
       "date": {
         "created": "2020-06-26",
-        "lastModified": "2020-10-29"
+        "lastModified": "2020-12-08"
       },
       "description": "The Bacterial Meningitis Genome Analysis Platform, an analysis pipeline, ExpressJS API, and ReactJS webapp for the analysis and characterization of bacterial meningitis samples",
       "downloadURL": "https://api.github.com/repos/CDCgov/BMGAP/downloads",
@@ -9222,7 +10024,7 @@
       },
       "date": {
         "created": "2020-05-12",
-        "lastModified": "2020-07-17"
+        "lastModified": "2021-02-17"
       },
       "description": "No description available...",
       "downloadURL": "https://api.github.com/repos/CDCgov/erhms-info-manager/downloads",
@@ -9256,7 +10058,7 @@
       },
       "date": {
         "created": "2020-04-15",
-        "lastModified": "2020-10-22"
+        "lastModified": "2021-05-13"
       },
       "description": "GeneFlow: A Workflow Engine for Bioinformatics and Public Health Analytics",
       "downloadURL": "https://api.github.com/repos/CDCgov/geneflow2/downloads",
@@ -9265,8 +10067,7 @@
       "languages": [
         "Python",
         "Shell",
-        "Gherkin",
-        "HTML",
+        "Jinja",
         "Dockerfile"
       ],
       "name": "geneflow2",
@@ -9508,7 +10309,7 @@
       },
       "date": {
         "created": "2020-03-26",
-        "lastModified": "2020-10-23"
+        "lastModified": "2021-05-08"
       },
       "description": "This project collects automated screening protocols and self-checker algorithms from organizations implementing CDC screening protocols in interactive web sites, chat bots, and other technology.",
       "downloadURL": "https://api.github.com/repos/CDCgov/covid19healthbot/downloads",
@@ -9541,15 +10342,13 @@
       },
       "date": {
         "created": "2020-03-18",
-        "lastModified": "2020-10-31"
+        "lastModified": "2021-05-14"
       },
       "description": "A collection of sequencing protocols and bioinformatic resources for SARS-CoV-2 sequencing.",
       "downloadURL": "https://api.github.com/repos/CDCgov/SARS-CoV-2_Sequencing/downloads",
       "homepageURL": "https://github.com/CDCgov/SARS-CoV-2_Sequencing",
       "laborHours": 0,
-      "languages": [
-        "Perl"
-      ],
+      "languages": [],
       "name": "SARS-CoV-2_Sequencing",
       "organization": "Centers for Disease Control and Prevention",
       "permissions": {
@@ -9688,7 +10487,7 @@
       },
       "date": {
         "created": "2019-08-26",
-        "lastModified": "2020-10-15"
+        "lastModified": "2021-05-12"
       },
       "description": "React component for visualizing your data on a map of the United States based off work done for the CDC",
       "downloadURL": "https://api.github.com/repos/CDCgov/CDC-Maps/downloads",
@@ -9696,7 +10495,7 @@
       "laborHours": 0,
       "languages": [
         "JavaScript",
-        "CSS",
+        "SCSS",
         "HTML"
       ],
       "name": "CDC-Maps",
@@ -9724,7 +10523,7 @@
       },
       "date": {
         "created": "2019-08-21",
-        "lastModified": "2019-08-30"
+        "lastModified": "2021-01-30"
       },
       "description": "Demonstrations of deploying machine learning models in R, MLflow, and ECPaaS",
       "downloadURL": "https://api.github.com/repos/CDCgov/SDP-MLaaS/downloads",
@@ -10110,7 +10909,7 @@
       },
       "date": {
         "created": "2019-01-14",
-        "lastModified": "2020-10-13"
+        "lastModified": "2021-04-25"
       },
       "description": "Uncompromisingly Flexible Phylogenetic Trees in Javascript",
       "downloadURL": "https://api.github.com/repos/CDCgov/TidyTree/downloads",
@@ -10249,7 +11048,7 @@
       },
       "date": {
         "created": "2018-12-04",
-        "lastModified": "2020-09-15"
+        "lastModified": "2021-04-24"
       },
       "description": "A Phylogenetics toolkit for Javascript",
       "downloadURL": "https://api.github.com/repos/CDCgov/patristic/downloads",
@@ -10325,7 +11124,7 @@
       },
       "date": {
         "created": "2018-09-21",
-        "lastModified": "2020-10-31"
+        "lastModified": "2021-04-29"
       },
       "description": "The Visualization Multitool for Molecular Epidemiology and Bioinformatics",
       "downloadURL": "https://api.github.com/repos/CDCgov/MicrobeTrace/downloads",
@@ -10549,7 +11348,7 @@
       },
       "date": {
         "created": "2018-04-06",
-        "lastModified": "2018-08-23"
+        "lastModified": "2020-12-18"
       },
       "description": "This is the repository extending the Springfox Swagger UI package to meet CDC browser requirements.",
       "downloadURL": "https://api.github.com/repos/CDCgov/springfox-swagger-ui/downloads",
@@ -10988,7 +11787,7 @@
       },
       "date": {
         "created": "2018-04-03",
-        "lastModified": "2020-09-11"
+        "lastModified": "2021-04-24"
       },
       "description": "A collection of reusable React components for quickly building modern and accessible web applications.",
       "downloadURL": "https://api.github.com/repos/CDCgov/fdns-ui-react/downloads",
@@ -11058,7 +11857,7 @@
       },
       "date": {
         "created": "2018-02-07",
-        "lastModified": "2020-09-15"
+        "lastModified": "2021-02-01"
       },
       "description": "Tamura-Nei '93 Computation in Javascript",
       "downloadURL": "https://api.github.com/repos/CDCgov/tn93.js/downloads",
@@ -11094,7 +11893,7 @@
       },
       "date": {
         "created": "2018-02-07",
-        "lastModified": "2020-10-15"
+        "lastModified": "2021-03-23"
       },
       "description": "A lightweight visualization for genetic sequence alignments",
       "downloadURL": "https://api.github.com/repos/CDCgov/AlignmentViewer/downloads",
@@ -11193,7 +11992,7 @@
       },
       "date": {
         "created": "2017-06-21",
-        "lastModified": "2020-10-07"
+        "lastModified": "2021-04-07"
       },
       "description": "No description available...",
       "downloadURL": "https://api.github.com/repos/CDCgov/openshift-fluentd-forwarder/downloads",
@@ -11300,7 +12099,7 @@
       },
       "date": {
         "created": "2017-04-10",
-        "lastModified": "2019-12-13"
+        "lastModified": "2021-04-21"
       },
       "description": "Natural Language processing for Pathology reports on cancer histology, laterality, side, and behavior.",
       "downloadURL": "https://api.github.com/repos/CDCgov/NLPWorkbench/downloads",
@@ -11403,7 +12202,7 @@
       },
       "date": {
         "created": "2016-05-20",
-        "lastModified": "2020-05-22"
+        "lastModified": "2021-04-02"
       },
       "description": "PoSE: (Pattern of Sequence Evolution) provides visualization and annotation of amino acid substitutions to help determine major patterns during sequence evolution of protein-coding sequences, hypervariable regions, or changes in dN/dS ratios. ",
       "downloadURL": "https://api.github.com/repos/CDCgov/PoSE/downloads",
